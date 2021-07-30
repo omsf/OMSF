@@ -36,4 +36,4 @@ You can support the OMSF by donating any amount of money to the OMSF. You can ch
 
 You can contribute code, expertise, time and other resources to support the OMSF&#39;s mission and help us achieve our goals. Get in touch with [us](mailto:info@omsf.io)!
 
-**Should you decide to support OMSF in any of the ways listed above, please note that the IRS requires the sponsor organization to maintain complete discretion and control over all received funds to prevent any potential use of the organization as a mere conduit to another entity.**
+*Should you decide to support OMSF in any of the ways listed above, please note that the IRS requires the sponsor organization to maintain complete discretion and control over all received funds to prevent any potential use of the organization as a mere conduit to another entity.*
