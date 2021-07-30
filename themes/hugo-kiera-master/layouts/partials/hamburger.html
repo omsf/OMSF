@@ -1,0 +1,23 @@
+<button onclick="myFunction()" id="toggle-main-menu-mobile" class="hamburger hamburger--slider" type="button">
+  <span class="hamburger-box">
+    <span class="hamburger-inner"></span>
+  </span>
+</button>
+
+<div id="mobile-submenu" style="display:none;" class="mobile-submenu">
+	{{ $currentPage := . }}
+	        {{ range .Site.Menus.main }}
+	<a class="{{if or (eq $currentPage.Section .Identifier) ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .)}} active{{end}}" href="{{ .URL }}">{{ .Name }}</a>
+	        {{ end }}
+</div>
+
+<script>
+	function myFunction() {
+  var x = document.getElementById("mobile-submenu");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+</script>

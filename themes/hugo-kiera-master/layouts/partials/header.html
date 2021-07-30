@@ -1,0 +1,21 @@
+<!doctype html>
+
+<html lang="{{ .Site.LanguageCode | default "en" }}">
+
+<head>
+  <title>OMSF</title>
+  {{ partial "meta" . }}
+  {{ partialCached "header_includes" . -}}
+</head>
+
+<body>
+  <div id="container">
+    <header>
+            <a class="logo" href="/OMSF"><img src="/OMSF/images/logo-web.png" alt="OMSF" /></a>
+
+
+    {{ partial "nav" . }}
+    {{ partial "hamburger.html" . }}
+    
+    </header>
+    <main>

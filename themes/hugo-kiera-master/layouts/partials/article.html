@@ -1,0 +1,29 @@
+
+  		{{ if eq .Section "about" }}
+		{{- partial "about.html" . -}}
+		{{ end }}    
+
+		{{ if eq .Section "services" }}
+		{{- partial "services.html" . -}}
+		{{ end }} 
+		
+		{{ if eq .Section "support" }}
+		{{- partial "support.html" . -}}
+		{{ end }} 		
+		
+		{{ if eq .Section "projects" }}
+		{{- partial "projects.html" . -}}
+		{{ end }} 
+		
+		{{ if eq .Section "hostedprojects" }}
+		{{- partial "hostedprojects.html" . -}}
+		{{ end }} 		
+
+
+<article>
+
+    <h1>{{ .Title }}</h1>
+
+    {{ .Content }}
+
+</article>

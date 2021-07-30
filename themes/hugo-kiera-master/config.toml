@@ -1,0 +1,35 @@
+baseURL = "https://github.com/hvanleeuwen/OMSF"
+
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = "0.55.0"
+
+[blackfriday]
+    extensions = ["hardLineBreak"]
+
+    [menu]
+
+      [[menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about/mission"
+        weight = 10
+
+      [[menu.main]]
+        identifier = "services"
+        name = "Services"
+        url = "/services/fiscalsponsorship"
+        weight = 20
+
+        [[menu.main]]
+          identifier = "hostedprojects"
+          name = "Hosted Projects"
+          url = "/hostedprojects/hostyourproject"
+          weight = 30
+
+      [[menu.main]]
+        identifier = "support"
+        name = "Support"
+        url = "/support/support"
+        weight = 40
