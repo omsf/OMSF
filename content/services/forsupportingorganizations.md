@@ -14,7 +14,7 @@ In addition to fiscal sponsorship, we aim to provide services to support the spe
 - Training and user support
 - Feasibility studies
 - Data curation
-- Independent benchmarking
+- Benchmarking
 
 #### Collaboration:
 - Assistance with nucleation and onboarding of high-impact new projects
@@ -22,4 +22,3 @@ In addition to fiscal sponsorship, we aim to provide services to support the spe
 - Facilitation of collaboration between academic and industry researchers.
 - (Co)organization of events, workshops and panels
 - Facilitation and coordination to work on standards and better practices for research open source software in molecular sciences.
-

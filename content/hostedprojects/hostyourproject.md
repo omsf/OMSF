@@ -6,7 +6,7 @@ weight: 1
 ---
 
 
-One of the services OMSF provides is fiscal sponsorship -- it can host an existing project looking for an organizational home or it can help incubate a new one in collaboration with the project leaders. The Project’s governing body communicates with the OMSF about services and support required, and provides instructions on how to spend their allocated funding. The OMSF provides requested support and ensures that any funding is spent according to the Project's governance charter and OMSF’s Bylaws (and charitable purpose). Those contributing financially to a Hosted Project typically become project Members and, by doing so, automatically become OMSF Members. 
+One of the services OMSF provides is fiscal sponsorship -- it can host an existing project looking for an organizational home or it can help incubate a new one in collaboration with the project leaders. The Project’s governing body communicates with the OMSF about services and support required, and provides instructions on how to spend their allocated funding. The OMSF provides requested support and ensures that any funding is spent according to the Project's governance charter and OMSF’s [Bylaws](content/bylaws.md) (and charitable purpose). Those contributing financially to a Hosted Project typically become project Members and, by doing so, automatically become OMSF Members.
 
 The OMSF charges a fee to each Hosted Project to cover the costs of business administration and any additional services provided. The fee will be set annually by the OMSF Board of Directors based on the incurred costs and the number of Hosted Projects as a percentage of the Project’s funding (typically less than 10%). Each Project will be timely informed about the fees and given the opportunity to reduce their costs, if needed, or to move their project to another organization.
 
@@ -22,7 +22,8 @@ The OMSF charges a fee to each Hosted Project to cover the costs of business adm
 {{% h3-green %}}
 How to become a Hosted Project?
 {{% /h3-green %}}
-1. Send a brief description of your project and how it satisfies requirements listed above to [projects@omsf.io](mailto:hostedprojects@omsf.io). The Board of Directors will review your application.
+
+1. Send a brief description of your project and how it satisfies requirements listed above to [sponsorship@omsf.io](mailto:sponsorship@omsf.io). The Board of Directors will review your application.
 
 2. If accepted, work with the OMSF to create an agreement defining the governance structure and membership plan for your supporting organizations (or individuals). This document will also specify the relationship and obligations for the Hosted Project and the OMSF. If your project is pre-existing, work with the OMSF to plan migration and adaptation to ensure it can fit as a Hosted Project.
 

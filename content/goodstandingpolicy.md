@@ -8,11 +8,11 @@ _Adopted, 27 July 2021_
 
 _Effective, 1 August 2021_
 
-This policy has been based on the Linux Foundation Good Standing Policy and adapted to reflect the needs of our organization. In order to enable the financial stability and efficiency of the Open Molecular Software Foundation (OMSF), and in order to ensure consistent treatment of members, the following rules shall apply:
+This policy is based on the Linux Foundation Good Standing Policy and adapted to reflect the needs of our organization. In order to enable the financial stability and efficiency of the Open Molecular Software Foundation (OMSF), and to ensure consistent treatment of members, the following rules shall apply:
 
 1. For all levels of membership, payment of the membership fees is due upon receipt and acceptance of an executed membership agreement and payable within ninety days of the invoice date from the OMSF (invoice due date).
 
-2. To remain in good standing, all invoiced membership fee amounts must be paid within fifteen days of invoice due date in order to remain in good standing and maintain full privileges as a member.
+2. All invoiced membership fee amounts must be paid within fifteen days of invoice due date in order to remain in good standing and maintain full privileges as a member.
 
 3. If any invoiced amount remains outstanding after the invoice due date, the OMSF shall send a notice to the business contact of such member as last communicated to the OMSF (&quot;Notice&quot;), that its participation rights, and the voting privileges of its representative(s), if any, will be suspended fifteen days after the invoice due date (&quot;Suspension Date&quot;) if such invoice has not been paid in full on or prior to such date.
 
