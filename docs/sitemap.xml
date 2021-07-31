@@ -1,219 +1,129 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://omsf.github.io/OMSF/antitrustpolicy/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omsf.github.io/OMSF/bylaws/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omsf.github.io/OMSF/services/fiscalsponsorship/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omsf.github.io/OMSF/goodstandingpolicy/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omsf.github.io/OMSF/hostedprojects/hostyourproject/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omsf.github.io/OMSF/about/mission/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omsf.github.io/OMSF/privacypolicy/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omsf.github.io/OMSF/hostedprojects/currentlyhostedprojects/</loc>
     <lastmod>2018-05-30T13:17:20+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omsf.github.io/OMSF/support/support/</loc>
     <lastmod>2018-05-30T13:17:20+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omsf.github.io/OMSF/services/forsupportingorganizations/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omsf.github.io/OMSF/about/people/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omsf.github.io/OMSF/about/careers/</loc>
     <lastmod>2018-05-30T13:17:20+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omsf.github.io/OMSF/about/legal-documents/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omsf.github.io/OMSF/post/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omsf.github.io/OMSF/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omsf.github.io/OMSF/categories/</loc>
-    <lastmod>2020-01-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-01-01T00:00:00+13:00</lastmod>
+  </url><url>
     <loc>https://omsf.github.io/OMSF/tags/feature-image/</loc>
-    <lastmod>2020-01-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-01-01T00:00:00+13:00</lastmod>
+  </url><url>
     <loc>https://omsf.github.io/OMSF/post/feature-image/</loc>
-    <lastmod>2020-01-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-01-01T00:00:00+13:00</lastmod>
+  </url><url>
     <loc>https://omsf.github.io/OMSF/categories/images/</loc>
-    <lastmod>2020-01-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-01-01T00:00:00+13:00</lastmod>
+  </url><url>
     <loc>https://omsf.github.io/OMSF/tags/layout/</loc>
-    <lastmod>2020-01-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-01-01T00:00:00+13:00</lastmod>
+  </url><url>
     <loc>https://omsf.github.io/OMSF/</loc>
-    <lastmod>2020-01-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-01-01T00:00:00+13:00</lastmod>
+  </url><url>
     <loc>https://omsf.github.io/OMSF/tags/</loc>
-    <lastmod>2020-01-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-01-01T00:00:00+13:00</lastmod>
+  </url><url>
     <loc>https://omsf.github.io/OMSF/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omsf.github.io/OMSF/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omsf.github.io/OMSF/categories/layout/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omsf.github.io/OMSF/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omsf.github.io/OMSF/post/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omsf.github.io/OMSF/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omsf.github.io/OMSF/about/</loc>
     <lastmod>2018-05-30T13:17:20+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omsf.github.io/OMSF/hostedprojects/</loc>
     <lastmod>2018-05-30T13:17:20+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omsf.github.io/OMSF/support/</loc>
     <lastmod>2018-05-30T13:17:20+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omsf.github.io/OMSF/post/style-guide/</loc>
     <lastmod>2017-11-14T10:57:55-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omsf.github.io/OMSF/post/image-content/</loc>
     <lastmod>2017-11-14T08:08:17-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omsf.github.io/OMSF/post/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omsf.github.io/OMSF/post/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omsf.github.io/OMSF/categories/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omsf.github.io/OMSF/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omsf.github.io/OMSF/post/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omsf.github.io/OMSF/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omsf.github.io/OMSF/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omsf.github.io/OMSF/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omsf.github.io/OMSF/tags/hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omsf.github.io/OMSF/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omsf.github.io/OMSF/post/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omsf.github.io/OMSF/services/</loc>
   </url>
-  
 </urlset>
