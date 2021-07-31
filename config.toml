@@ -1,4 +1,4 @@
-baseURL = "https://omsf.github.io/"
+baseURL = "https://omsf.github.io/OMSF/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "hugo-kiera-master"
