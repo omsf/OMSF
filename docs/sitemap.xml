@@ -1,219 +1,129 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>http://idee2.nl/antitrustpolicy/</loc>
-  </url>
-  
-  <url>
-    <loc>http://idee2.nl/bylaws/</loc>
-  </url>
-  
-  <url>
-    <loc>http://idee2.nl/services/fiscalsponsorship/</loc>
-  </url>
-  
-  <url>
-    <loc>http://idee2.nl/goodstandingpolicy/</loc>
-  </url>
-  
-  <url>
-    <loc>http://idee2.nl/hostedprojects/hostyourproject/</loc>
-  </url>
-  
-  <url>
-    <loc>http://idee2.nl/about/mission/</loc>
-  </url>
-  
-  <url>
-    <loc>http://idee2.nl/privacypolicy/</loc>
-  </url>
-  
-  <url>
-    <loc>http://idee2.nl/hostedprojects/currentlyhostedprojects/</loc>
+    <loc>https://omsf.io/antitrustpolicy/</loc>
+  </url><url>
+    <loc>https://omsf.io/bylaws/</loc>
+  </url><url>
+    <loc>https://omsf.io/services/fiscalsponsorship/</loc>
+  </url><url>
+    <loc>https://omsf.io/goodstandingpolicy/</loc>
+  </url><url>
+    <loc>https://omsf.io/hostedprojects/hostyourproject/</loc>
+  </url><url>
+    <loc>https://omsf.io/about/mission/</loc>
+  </url><url>
+    <loc>https://omsf.io/privacypolicy/</loc>
+  </url><url>
+    <loc>https://omsf.io/hostedprojects/currentlyhostedprojects/</loc>
     <lastmod>2018-05-30T13:17:20+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://idee2.nl/support/support/</loc>
+  </url><url>
+    <loc>https://omsf.io/support/support/</loc>
     <lastmod>2018-05-30T13:17:20+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://idee2.nl/services/forsupportingorganizations/</loc>
-  </url>
-  
-  <url>
-    <loc>http://idee2.nl/about/people/</loc>
-  </url>
-  
-  <url>
-    <loc>http://idee2.nl/about/careers/</loc>
+  </url><url>
+    <loc>https://omsf.io/services/forsupportingorganizations/</loc>
+  </url><url>
+    <loc>https://omsf.io/about/people/</loc>
+  </url><url>
+    <loc>https://omsf.io/about/careers/</loc>
     <lastmod>2018-05-30T13:17:20+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://idee2.nl/about/legal-documents/</loc>
-  </url>
-  
-  <url>
-    <loc>http://idee2.nl/post/</loc>
+  </url><url>
+    <loc>https://omsf.io/about/legal-documents/</loc>
+  </url><url>
+    <loc>https://omsf.io/post/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://idee2.nl/about/</loc>
+  </url><url>
+    <loc>https://omsf.io/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://idee2.nl/categories/</loc>
-    <lastmod>2020-01-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://idee2.nl/tags/feature-image/</loc>
-    <lastmod>2020-01-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://idee2.nl/post/feature-image/</loc>
-    <lastmod>2020-01-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://idee2.nl/categories/images/</loc>
-    <lastmod>2020-01-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://idee2.nl/tags/layout/</loc>
-    <lastmod>2020-01-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://idee2.nl/</loc>
-    <lastmod>2020-01-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://idee2.nl/tags/</loc>
-    <lastmod>2020-01-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://idee2.nl/tags/css/</loc>
+  </url><url>
+    <loc>https://omsf.io/categories/</loc>
+    <lastmod>2020-01-01T00:00:00+13:00</lastmod>
+  </url><url>
+    <loc>https://omsf.io/tags/feature-image/</loc>
+    <lastmod>2020-01-01T00:00:00+13:00</lastmod>
+  </url><url>
+    <loc>https://omsf.io/post/feature-image/</loc>
+    <lastmod>2020-01-01T00:00:00+13:00</lastmod>
+  </url><url>
+    <loc>https://omsf.io/categories/images/</loc>
+    <lastmod>2020-01-01T00:00:00+13:00</lastmod>
+  </url><url>
+    <loc>https://omsf.io/tags/layout/</loc>
+    <lastmod>2020-01-01T00:00:00+13:00</lastmod>
+  </url><url>
+    <loc>https://omsf.io/</loc>
+    <lastmod>2020-01-01T00:00:00+13:00</lastmod>
+  </url><url>
+    <loc>https://omsf.io/tags/</loc>
+    <lastmod>2020-01-01T00:00:00+13:00</lastmod>
+  </url><url>
+    <loc>https://omsf.io/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://idee2.nl/tags/html/</loc>
+  </url><url>
+    <loc>https://omsf.io/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://idee2.nl/categories/layout/</loc>
+  </url><url>
+    <loc>https://omsf.io/categories/layout/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://idee2.nl/tags/markdown/</loc>
+  </url><url>
+    <loc>https://omsf.io/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://idee2.nl/post/markdown-syntax/</loc>
+  </url><url>
+    <loc>https://omsf.io/post/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://idee2.nl/tags/themes/</loc>
+  </url><url>
+    <loc>https://omsf.io/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://idee2.nl/about/</loc>
+  </url><url>
+    <loc>https://omsf.io/about/</loc>
     <lastmod>2018-05-30T13:17:20+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://idee2.nl/hostedprojects/</loc>
+  </url><url>
+    <loc>https://omsf.io/hostedprojects/</loc>
     <lastmod>2018-05-30T13:17:20+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://idee2.nl/support/</loc>
+  </url><url>
+    <loc>https://omsf.io/support/</loc>
     <lastmod>2018-05-30T13:17:20+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://idee2.nl/post/style-guide/</loc>
+  </url><url>
+    <loc>https://omsf.io/post/style-guide/</loc>
     <lastmod>2017-11-14T10:57:55-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://idee2.nl/post/image-content/</loc>
+  </url><url>
+    <loc>https://omsf.io/post/image-content/</loc>
     <lastmod>2017-11-14T08:08:17-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://idee2.nl/post/creating-a-new-theme/</loc>
+  </url><url>
+    <loc>https://omsf.io/post/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://idee2.nl/post/goisforlovers/</loc>
+  </url><url>
+    <loc>https://omsf.io/post/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://idee2.nl/categories/development/</loc>
+  </url><url>
+    <loc>https://omsf.io/categories/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://idee2.nl/tags/development/</loc>
+  </url><url>
+    <loc>https://omsf.io/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://idee2.nl/post/hugoisforlovers/</loc>
+  </url><url>
+    <loc>https://omsf.io/post/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://idee2.nl/tags/go/</loc>
+  </url><url>
+    <loc>https://omsf.io/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://idee2.nl/tags/golang/</loc>
+  </url><url>
+    <loc>https://omsf.io/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://idee2.nl/categories/golang/</loc>
+  </url><url>
+    <loc>https://omsf.io/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://idee2.nl/tags/hugo/</loc>
+  </url><url>
+    <loc>https://omsf.io/tags/hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://idee2.nl/tags/templates/</loc>
+  </url><url>
+    <loc>https://omsf.io/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://idee2.nl/post/migrate-from-jekyll/</loc>
+  </url><url>
+    <loc>https://omsf.io/post/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://omsf.io/services/</loc>
   </url>
-  
-  <url>
-    <loc>http://idee2.nl/services/</loc>
-  </url>
-  
 </urlset>

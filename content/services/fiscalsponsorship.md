@@ -11,7 +11,7 @@ What is fiscal sponsorship? Simply put, fiscal sponsorship allows extension of o
 
 As the book title suggests, there are [six models of fiscal sponsorship](https://fiscalsponsorship.com/the-models-summary/) with varying levels of financial independence for sponsored projects with respect to the sponsoring organization. We are planning to develop support and capabilities to support several models over time. Please reach out to [sponsorship@omsf.io](mailto:sponsorship@omsf.io) if you think OMSF could assist your project and your organization as a fiscal sponsor.
 
-The OMSF will initially focus on the **Model A** , also known as Direct Project or Comprehensive Model. In this model, the project becomes a program of the fiscal sponsor and the sponsor (OMSF) takes comprehensive responsibility for the project. The fiscal sponsor assumes liability for all project assets and activities, including its employees, contractors and volunteers. This is one of the least financially independent models, as the sponsor has ultimate control, but projects may have a substantial level of autonomy. Projects following this model within OMSF are called [Hosted Projects](hosted-projects).
+The OMSF will initially focus on the *Model A* , also known as Direct Project or Comprehensive Model. In this model, the project becomes a program of the fiscal sponsor and the sponsor (OMSF) takes comprehensive responsibility for the project. The fiscal sponsor assumes liability for all project assets and activities, including its employees, contractors and volunteers. This is one of the least financially independent models, as the sponsor has ultimate control, but projects may have a substantial level of autonomy. Projects following this model within OMSF are called [Hosted Projects](hosted-projects).
 
 {{% img-full %}}
 ![image alt text](/images/services2.jpg)
@@ -20,20 +20,20 @@ The OMSF will initially focus on the **Model A** , also known as Direct Project 
 We offer the following services to Hosted Projects:
 
 #### Full back-office support:
-  - Transparent accounting 
-  - Contracts management 
-  - Accounts payable and receivable 
+  - Transparent accounting
+  - Contracts management
+  - Accounts payable and receivable
   - Insurance
 
-  
+
 #### Human resources,
   - Support for international hiring
   - Independent contractors
   - Employee benefits and payroll
 
 #### Strategic advising
-  - Revenue modelling 
-  - Fundraising support, 
+  - Revenue modelling
+  - Fundraising support,
   - Assistance with project governance
   - Exploring funding options and business models to ensure the long term sustainability of Hosted Projects
   - Help identify and grow strategic partnerships and relationships with stakeholders relevant to Hosted Project’s success
