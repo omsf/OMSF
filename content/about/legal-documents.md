@@ -16,7 +16,3 @@ Policies
 {{% h3-green %}}
 Annual reports
 {{% /h3-green %}}
-###### [2020 report - Coming soon](#2020report)
-###### [2021 report - Coming soon](#2021report)
-###### [2022 report - Coming soon](#2022report)
-
