@@ -1,0 +1,5 @@
+baseURL = "https://omsf.io/"
+languageCode = "en-us"
+title = "OMSF"
+theme = "hugo-kiera-master"
+publishDir = "docs"

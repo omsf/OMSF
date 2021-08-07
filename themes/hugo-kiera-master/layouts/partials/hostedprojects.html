@@ -1,0 +1,16 @@
+<div class="sub-wrapper">
+	<div class="sub">
+        {{ $currentPage := . }}
+        {{ range .Site.Menus.hostedprojects }}
+
+
+                    <a class="{{ if $currentPage.IsMenuCurrent "hostedprojects" . }}active{{ end }}" href="{{ .URL }}">
+                        {{ .Pre }}
+                        <span>{{ .Name }}</span>
+                    </a>
+ 
+
+        {{ end }}
+
+	</div>	
+</div>

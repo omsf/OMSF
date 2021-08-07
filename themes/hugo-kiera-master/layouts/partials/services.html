@@ -1,0 +1,28 @@
+<div class="sub-wrapper sub-wrapper-blue">
+	<div class="sub">
+        {{ $currentPage := . }}
+        {{ range .Site.Menus.services }}
+
+
+                    <a class="{{ if $currentPage.IsMenuCurrent "services" . }}active{{ end }}" href="{{ .URL }}">
+                        {{ .Pre }}
+                        <span>{{ .Name }}</span>
+                    </a>
+ 
+
+        {{ end }}
+
+	</div>	
+</div>
+
+
+<style>
+	footer {
+		background-color:#56A1B1 !important;
+	}
+	
+	#container nav ul li a.active {
+		border-bottom: 2px solid #56A1B1 !important;
+	}
+</style>
+	
