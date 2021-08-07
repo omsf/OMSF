@@ -31,5 +31,5 @@ jobs:
         #if: ${{ github.ref == 'refs/heads/main' }}
         with:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-          publish_branch: add-gha  # default: gh-pages
+          publish_branch: master  # default: gh-pages
           publish_dir: ./docs
