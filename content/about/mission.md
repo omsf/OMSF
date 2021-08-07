@@ -64,7 +64,7 @@ The OMSF is a nonprofit organization currently seeking 501(c)(3) tax exempt stat
 ![image alt text](/images/OMF-img2.jpg)
 
 #### 1.	Fiscal sponsorship
-The OMSF seeks in large part to provide a home and base of operations for open source software projects through [fiscal sponsorship](https://en.wikipedia.org/wiki/Fiscal_sponsorship). We recognize the need to simplify administration and project management for distributed teams and research software development. It is important to emphasize that each Hosted Project has its own governance structure and all important decisions are made accordingly, including how to spend funds. The role of the OMSF is to follow the instructions received from the governing body of the Hosted Project and in accordance with our mission and charitable purpose. Read more about our fiscal sponsorship [services](#services) and how to become a [Hosted Project](#hostedproject).  
+The OMSF seeks in large part to provide a home and base of operations for open source software projects through [fiscal sponsorship](https://en.wikipedia.org/wiki/Fiscal_sponsorship). We recognize the need to simplify administration and project management for distributed teams and research software development. It is important to emphasize that each Hosted Project has its own governance structure and all important decisions are made accordingly, including how to spend funds. The role of the OMSF is to follow the instructions received from the governing body of the Hosted Project and in accordance with our mission and charitable purpose. Read more about our fiscal sponsorship [services](/content/services) and how to become a [Hosted Project](content/hostedprojects).  
 
 #### 2.	Community oriented programs
 This organization allows us to combine different funding sources -- membership fees, grants, small donations and others -- to support our employees and different programs ultimately directed at advancing molecular sciences through research software development and communities. We intend to actively apply for funding to support activities and create resources relevant to our Hosted Projects and wider community in molecular sciences.
@@ -93,7 +93,7 @@ OMSF’s personnel runs the operations and implements strategy envisioned by the
 
 
 #### Hosted Projects
-Each Hosted Project is expected to have their own governance model, and their Governing Board is responsible for running the Hosted Project and communicating with OMSF. Supporting Members of Hosted Projects automatically become OMSF members and receive voting rights. In addition to Supporting Members and project staff, each Hosted Project may maintain a network of external collaborators and contributors. 
+Each Hosted Project is expected to have their own governance model, and their Governing Board is responsible for running the Hosted Project and communicating with OMSF. Supporting Members of Hosted Projects automatically become OMSF members and receive voting rights. In addition to Supporting Members and project staff, each Hosted Project may maintain a network of external collaborators and contributors.
 
 
 {{% h2 %}}
