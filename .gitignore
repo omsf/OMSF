@@ -1,0 +1,7 @@
+# OS X extra files
+*.DS_Store
+*/.DS_Store
+*/*/.DS_Store
+
+public/
+
