@@ -1,6 +1,6 @@
 ---
 title: "Good Standing Policy"
-name: "goodstandingpolicy"
+name: "good-standing-policy"
 weight: 1
 ---
 
