@@ -1,6 +1,6 @@
 ---
 title: "Antitrust Policy"
-name: "antitrustpolicy"
+name: "antitrust-policy"
 weight: 1
 ---
 

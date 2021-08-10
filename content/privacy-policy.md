@@ -1,6 +1,6 @@
 ---
 title: "Privacy Policy"
-name: "privacypolicy"
+name: "privacy-policy"
 weight: 1
 ---
 
