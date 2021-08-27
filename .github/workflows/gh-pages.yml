@@ -5,8 +5,7 @@ on:
     branches:
       - main  # Set a branch to deploy
   pull_request:
-    branches:
-      - main
+
 
 jobs:
   deploy:
