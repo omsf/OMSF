@@ -1,8 +1,8 @@
 ---
-title: "Support"
+title: "Support us!"
 date: 2018-05-30T13:17:20+02:00
 menu: support
-name: "support"
+name: "how-to"
 weight: 2
 ---
 
