@@ -28,12 +28,12 @@ Contact
 
 For any correspondence, please use the following address:
 
-Open Molecular Software Foundation <br>
-417 Mace Blvd., Suite J110, Davis, CA 95618
+**Open Molecular Software Foundation**   
+417 Mace Blvd., Suite J110  
+Davis, CA 95618
 
-If you need a physical location address, please use:
+If you need our physical address, please use:
 
-Open Molecular Software Foundation
-200 B Street, Suite F <br>
-Davis, CA 95616 <br>
-USA
+**Open Molecular Software Foundation**  
+200 B Street, Suite F  
+Davis, CA 95616  
