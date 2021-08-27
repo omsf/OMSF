@@ -1,20 +1,26 @@
 ---
-title: "Currently Hosted Projects"
+title: "OMSF Projects"
 date: 2018-05-30T13:17:20+02:00
-menu: hostedprojects
-name: "currentlyhostedprojects"
+menu: projects
+name: "project-list"
 weight: 2
 ---
 
+This is the current list of projects under the OMSF umbrella.
 
-#### [Open Force Field Initiative](http://openforcefield.org/)
 
-The Open Force Field Initiative is a network of academic and industry researchers working together to advance science and infrastructure required for building the next generation of small molecule and biomolecular force fields. The shared goal of these researchers is to develop automated and systematic data-driven techniques to parameterize and assess new generations of more accurate force fields. Software and data are released under open licensing agreements to enable rapid application, validation, extension and any kind of modification by our users and contributors. In addition, the Initiative aims to build and support a strong community of users and contributors from industry and academia.
+{{% h3-green %}}
+Open Force Field Initiative
+{{% /h3-green %}}
+
+
+The [Open Force Field Initiative](https://openforcefield.org/) is a network of academic and industry researchers working together to advance science and infrastructure required for building the next generation of small molecule and biomolecular force fields. The shared goal of these researchers is to develop automated and systematic data-driven techniques to parameterize and assess new generations of more accurate force fields. Software and data are released under open licensing agreements to enable rapid application, validation, extension and any kind of modification by our users and contributors. In addition, the Initiative aims to build and support a strong community of users and contributors from industry and academia.
 
 The OpenFF Initiative is funded by the OpenFF Consortium of industry partners focused on development of small molecule force fields, and the NIH grant aimed at supporting compatible biomolecular force fields.
 
-
-#### Open Free Energy Consortium
+{{% h3-green %}}
+Open Free Energy Consortium
+{{% /h3-green %}}
 
 The growing success of alchemical free energy methods in aiding structure-enabled drug discovery efforts in driving or maintaining potency and selectivity---and more recently, in quantifying the impact of mutations---is driving the development of an open source ecosystem of alchemical free energy calculation packages. However, this ecosystem is not yet interoperable, interchangeable, robust, or developing sufficiently quickly to meet the rapidly growing needs of pharma and widespread availability of inexpensive GPU computing resources. In addition, the proliferation of free energy methods makes it difficult to determine which methods will perform well on targets of interest without significant time and money investment by individual pharma companies to bring individual methods in house.
 

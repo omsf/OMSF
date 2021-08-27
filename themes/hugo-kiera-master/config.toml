@@ -1,4 +1,3 @@
-baseURL = "http://idee2.nl"
 
 [module]
   [module.hugoVersion]
@@ -19,17 +18,17 @@ baseURL = "http://idee2.nl"
       [[menu.main]]
         identifier = "services"
         name = "Services"
-        url = "/services/fiscalsponsorship"
+        url = "/services/fiscal-sponsorship"
         weight = 20
 
         [[menu.main]]
-          identifier = "hostedprojects"
-          name = "Hosted Projects"
-          url = "/hostedprojects/hostyourproject"
+          identifier = "projects"
+          name = "Projects"
+          url = "/projects/host-project"
           weight = 30
 
       [[menu.main]]
         identifier = "support"
         name = "Support"
-        url = "/support/support"
+        url = "/support/how-to"
         weight = 40

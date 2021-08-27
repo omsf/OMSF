@@ -52,7 +52,7 @@ In-house, we work to build community:
 * Explore funding options and business models
 * Grow strategic partnerships and relationships
 
-Visit our [Services page](#services) for more information about how the OMSF can support you and your project.
+Visit our [Services page](/services/fiscal-sponsorship) for more information about how the OMSF can support you and your project.
 
 
 {{% h2 %}}
@@ -64,7 +64,7 @@ The OMSF is a nonprofit organization currently seeking 501(c)(3) tax exempt stat
 ![image alt text](/images/OMF-img2.jpg)
 
 #### 1.	Fiscal sponsorship
-The OMSF seeks in large part to provide a home and base of operations for open source software projects through [fiscal sponsorship](https://en.wikipedia.org/wiki/Fiscal_sponsorship). We recognize the need to simplify administration and project management for distributed teams and research software development. It is important to emphasize that each Hosted Project has its own governance structure and all important decisions are made accordingly, including how to spend funds. The role of the OMSF is to follow the instructions received from the governing body of the Hosted Project and in accordance with our mission and charitable purpose. Read more about our fiscal sponsorship [services](#services) and how to become a [Hosted Project](#hostedproject).  
+The OMSF seeks in large part to provide a home and base of operations for open source software projects through [fiscal sponsorship](https://en.wikipedia.org/wiki/Fiscal_sponsorship). We recognize the need to simplify administration and project management for distributed teams and research software development. It is important to emphasize that each Hosted Project has its own governance structure and all important decisions are made accordingly, including how to spend funds. The role of the OMSF is to follow the instructions received from the governing body of the Hosted Project and in accordance with our mission and charitable purpose. Read more about our fiscal sponsorship [services](/services/fiscal-sponsorship) and how to become a [Hosted Project](/projects/host-project).  
 
 #### 2.	Community oriented programs
 This organization allows us to combine different funding sources -- membership fees, grants, small donations and others -- to support our employees and different programs ultimately directed at advancing molecular sciences through research software development and communities. We intend to actively apply for funding to support activities and create resources relevant to our Hosted Projects and wider community in molecular sciences.
@@ -73,7 +73,7 @@ This organization allows us to combine different funding sources -- membership f
 ## Governance
 {{% /h2 %}}
 
-The OMSF operates as a lean organization with the minimal number of employees to be effective, while keeping our costs down. We will regularly update our [Documentation page](#documentation) with all relevant organization documents and annual reports.
+The OMSF operates as a lean organization with the minimal number of employees to be effective, while keeping our costs down. We will regularly update our [Documents](/about/legal) page with all relevant organization documents and annual reports.
 
 ![image alt text](/images/OMF-img3.jpg)
 
@@ -86,14 +86,14 @@ The main responsibilities of the Board include:
 * Ensuring that all activities are aligned with the mission;
 * Strategic planning and decision making in the best interest of OMSF and its associated stakeholders.
 
-The organization members have voting rights to elect the Board of Directors, as described in our [Bylaws](#documentation). There can be a maximum of seven Directors serving on the Board -- four “internal” Directors representing Hosted Projects and three “external” Directors with relevant experience and expertise to help to advance the best interests of the organization and all its members.
+The organization members have voting rights to elect the Board of Directors, as described in our [Bylaws](/bylaws). There can be a maximum of seven Directors serving on the Board -- four “internal” Directors representing Hosted Projects and three “external” Directors with relevant experience and expertise to help to advance the best interests of the organization and all its members.
 
 #### Team
 OMSF’s personnel runs the operations and implements strategy envisioned by the Board of Directors, and supports Hosted Projects.
 
 
 #### Hosted Projects
-Each Hosted Project is expected to have their own governance model, and their Governing Board is responsible for running the Hosted Project and communicating with OMSF. Supporting Members of Hosted Projects automatically become OMSF members and receive voting rights. In addition to Supporting Members and project staff, each Hosted Project may maintain a network of external collaborators and contributors. 
+Each Hosted Project is expected to have their own governance model, and their Governing Board is responsible for running the Hosted Project and communicating with OMSF. Supporting Members of Hosted Projects automatically become OMSF members and receive voting rights. In addition to Supporting Members and project staff, each Hosted Project may maintain a network of external collaborators and contributors.
 
 
 {{% h2 %}}
