@@ -77,9 +77,8 @@ The OMSF operates as a lean organization with the minimal number of employees to
 
 ![image alt text](/images/OMF-img3.jpg)
 
-{{% h3-green %}}
-The OMSF Board of Directors.
-{{% /h3-green %}}
+
+#### The OMSF Board of Directors
 
 The main responsibilities of the Board include:
 

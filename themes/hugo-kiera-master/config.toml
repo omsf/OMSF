@@ -18,7 +18,7 @@
       [[menu.main]]
         identifier = "services"
         name = "Services"
-        url = "/services/fiscal-sponsorship"
+        url = "/services/fiscal-sponsorship/"
         weight = 20
 
         [[menu.main]]

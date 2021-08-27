@@ -1,23 +1,19 @@
 
   		{{ if eq .Section "about" }}
 		{{- partial "about.html" . -}}
-		{{ end }}    
+		{{ end }}
 
 		{{ if eq .Section "services" }}
 		{{- partial "services.html" . -}}
-		{{ end }} 
-		
+		{{ end }}
+
 		{{ if eq .Section "support" }}
 		{{- partial "support.html" . -}}
-		{{ end }} 		
-		
+		{{ end }}
+
 		{{ if eq .Section "projects" }}
 		{{- partial "projects.html" . -}}
-		{{ end }} 
-		
-		{{ if eq .Section "hostedprojects" }}
-		{{- partial "hostedprojects.html" . -}}
-		{{ end }} 		
+		{{ end }}
 
 
 <article>
