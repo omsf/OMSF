@@ -18,7 +18,7 @@ This Policy is conservative and is intended to promote compliance with the Antit
 
 The requirements for Membership and participation should be reasonable and nondiscriminatory, and those requirements should be applied in an impartial manner.
 
-- Qualifications for Membership and participation should be objective and easily verifiable, as set in our Bylaws and Directed Fund agreements.
+- Qualifications for Membership and participation should be objective and easily verifiable, as set in our [Bylaws](/bylaws) and Directed Fund agreements.
 - Decisions about allowing particular entities to join or participate should not be based, in whole or in part, on the competitive or commercial interests of other actual or potential Members. The commercial interests of the Members should never be part of any discussion of actual or potential Membership or participation by other firms.
 - Fees for Membership should be set at a level reasonably related to the costs they are meant to cover. Fees or other requirements for Membership and participation should not tend to exclude certain firms (for example, because of their size or their payment terms).
 - Membership and participation should not be conditioned on past or future competitive commercial behavior by the prospective Member or participant.
