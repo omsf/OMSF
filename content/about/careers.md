@@ -31,7 +31,7 @@ PROJECT MANAGER
 
 The Open Free Energy Fund is seeking a motivated individual who will join the team and serve as a project manager. The project manager will help create and implement the strategies for effective project functioning, and coordinate between multiple industry partners, academic researchers, software scientists and other stakeholders involved in the Open Free Energy Fund. This person will also serve as a key contact point for the OpenFE Governing Board, Technical Advisory Council, OMSF staff and officers, software scientists and other project contributors. They will assist in planning and tracking the progress of each technical project associated with the Open Free Energy Fund, and provide support to the project team to achieve project goals and overall milestones. The project manager will serve as a hub for the project and help ensure that technical staff are able to focus a large amount of their effort on producing project deliverables.
 
-Please apply [**here**](https://formfaca.de/sm/Nczv6Gtgw).
+Please apply [**here**](https://forms.gle/o8Lz8ux8ENTUZpM69).
 
 **Expected duties**:
 
