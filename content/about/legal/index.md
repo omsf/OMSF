@@ -17,9 +17,10 @@ Incorporation & Bylaws
 {{% h3-green %}}
 Policies
 {{% /h3-green %}}
-###### [Good standing policy](/good-standing-policy)
-###### [Privacy policy](/privacy-policy)
-###### [Antitrust policy](/antitrust-policy)
+###### [Antitrust Policy](/antitrust-policy)
+###### [Conflict of Interest Policy](/coi-policy)
+###### [Good standing Policy](/good-standing-policy)
+###### [Privacy Policy](/privacy-policy)
 
 
 {{% h3-green %}}

@@ -6,7 +6,7 @@ weight: 1
 
 # BY-LAWS OF OPEN MOLECULAR SOFTWARE FOUNDATION
 
-*Last updated on Aug 31, 2021. Download [PDF](/OMSF_Bylaws.pdf).*
+*Last updated on Aug 31, 2021. Download [PDF](/about/legal/OMSF_Bylaws.pdf).*
 
 #### ARTICLE I      
 &nbsp;  
@@ -30,11 +30,11 @@ The nature of the business or purposes to be conducted or promoted by the Founda
 
 **Section 1.5 Nonprofit Status**
 
-(a) The Foundation is organized and shall be operated as a non-stock, not for profit Foundation organized under the DGCL.  The Foundation is organized exclusively for charitable, educational, and scientific purposes, including, for such purposes, the making of distributions to organizations that qualify as exempt organizations described under Section 501(c)(3) of the Internal Revenue Code of 1986, as amended (hereinafter, the &quot;Code&quot;), or corresponding section of any future federal tax code.
+(a) The Foundation is organized and shall be operated as a non-stock, not for profit Foundation organized under the DGCL.  The Foundation is organized exclusively for charitable, educational, and scientific purposes, including, for such purposes, the making of distributions to organizations that qualify as exempt organizations described under Section 501(c)(3) of the Internal Revenue Code of 1986, as amended (hereinafter, the &quot;Code&quot;), or corresponding section of any future federal tax code.  
 
-(b) The Board of Directors may, in its sole discretion, elect to seek exemption from Federal taxation for the Foundation pursuant to Section 501(a) of the Code.  In the event that such exemption is sought and until such time, if ever, as such exemption is denied or lost, the Foundation shall not knowingly engage directly or indirectly in any activity that it believes would be likely to invalidate its status as an organization exempt from federal income taxation under Section 501(a) of the Code as an organization described in Section 501(c)(3) of the Code.  All references to the Code contained herein are deemed to include corresponding provisions of any future United States Internal Revenue Law.
+(b) The Board of Directors may, in its sole discretion, elect to seek exemption from Federal taxation for the Foundation pursuant to Section 501(a) of the Code.  In the event that such exemption is sought and until such time, if ever, as such exemption is denied or lost, the Foundation shall not knowingly engage directly or indirectly in any activity that it believes would be likely to invalidate its status as an organization exempt from federal income taxation under Section 501(a) of the Code as an organization described in Section 501(c)(3) of the Code.  All references to the Code contained herein are deemed to include corresponding provisions of any future United States Internal Revenue Law.  
 
-(c) In the event that such exemption is obtained and until such time, if ever, as such exemption is denied or lost:  (i) no part of the net earnings of the Foundation shall inure to the benefit of, or be distributable to, any member of its Board of Directors, its officers, or other private persons, except that the Foundation shall be authorized and empowered to pay reasonable compensation for services rendered and to make payments and distributions in furtherance of the purposes set forth herein; (ii) no substantial part of the activities of the Foundation shall be the carrying on of propaganda or otherwise attempting to influence legislation, and the Foundation shall not participate or intervene in (including the publication or distribution of statements) any political campaign on behalf of (or in opposition to) any candidate for public office; (iii) the Foundation shall be operated and organized exclusively for charitable, religious, educational, literary, and scientific purposes, within the meaning of Section 501(c)(3) of the Code; and (iv) notwithstanding any other provisions of these By-laws, the Foundation shall not carry on any other activities not permitted to be carried on (A) by an organization exempt from federal income tax under Section 501(c)(3) of the Code, or (B) by an organization contributions to which are deductible under Section 170(c)(2) of the Code.
+(c) In the event that such exemption is obtained and until such time, if ever, as such exemption is denied or lost:  (i) no part of the net earnings of the Foundation shall inure to the benefit of, or be distributable to, any member of its Board of Directors, its officers, or other private persons, except that the Foundation shall be authorized and empowered to pay reasonable compensation for services rendered and to make payments and distributions in furtherance of the purposes set forth herein; (ii) no substantial part of the activities of the Foundation shall be the carrying on of propaganda or otherwise attempting to influence legislation, and the Foundation shall not participate or intervene in (including the publication or distribution of statements) any political campaign on behalf of (or in opposition to) any candidate for public office; (iii) the Foundation shall be operated and organized exclusively for charitable, religious, educational, literary, and scientific purposes, within the meaning of Section 501(c)(3) of the Code; and (iv) notwithstanding any other provisions of these By-laws, the Foundation shall not carry on any other activities not permitted to be carried on (A) by an organization exempt from federal income tax under Section 501(c)(3) of the Code, or (B) by an organization contributions to which are deductible under Section 170(c)(2) of the Code.  
 
 **Section 1.6 Hosted Projects**
 
@@ -50,9 +50,9 @@ The Foundation shall initially have one class of membership.  Additional classes
 
 **Section 2.2 Purpose, Eligibility and Designation of Members**
 
-(a) The primary right and obligation of the Members is to elect an effective Board of Directors that is both fairly representative of Hosted Projects and funding sources and benefits from the expertise of unaffiliated experts.
+  (a) The primary right and obligation of the Members is to elect an effective Board of Directors that is both fairly representative of Hosted Projects and funding sources and benefits from the expertise of unaffiliated experts.
 
-(b) The following shall be eligible to become Members:
+  (b) The following shall be eligible to become Members:
 
 &emsp; &emsp; &emsp; &emsp;  (i)  Each Hosted Project shall be entitled to become a Member upon acceptance as a Hosted Project (a &quot;Hosted Project Member&quot;), and shall be entitled to remain a Member while remaining a Hosted Project in good standing;
 
@@ -103,7 +103,7 @@ Initially, there shall be no fees or other charges for membership by Hosted Proj
 Neither the Foundation nor any Member shall use the name of the other in any form of publicity without the written permission of the other, provided that the Foundation and any Member may each disclose and publicize such Member&#39;s membership in the Foundation.
 
 
-#### ARTICLE
+#### ARTICLE III
 &nbsp;  
 **MEETINGS OF MEMBERS**
 
@@ -525,15 +525,15 @@ The Foundation may be dissolved upon the affirmative vote of not less than two-t
 &nbsp;  
 **GENERAL PROVISIONS**
 
-**Section 12.1 Fiscal Year**
+**Section 13.1 Fiscal Year**
 
 The fiscal year of the Foundation shall be determined, and may be changed, by resolution of the Board of Directors.
 
-**Section 12.2 Reserves**
+**Section 13.2 Reserves**
 
 The Directors may set apart out of any funds of the Foundation a reserve or reserves for any proper purpose and may abolish any such reserve.
 
-**Section 12.3 Proprietary Rights**
+**Section 13.3 Proprietary Rights**
 
 (a)  Except as specifically provided to the contrary in such policies and procedures as may from time to time be approved by the Board of Directors, all information disclosed by any participant during any official meeting or activity of the Foundation, including but not limited to Member meetings, Member Committee Meetings, Sub-Group meetings, Board of Directors meetings, meetings of Board Committees and sub-committees thereof, electronic mail or the like, shall be deemed to have been disclosed on a non-confidential basis, but without waiver of any rights represented by valid patents, patent applications, and Federal and international statutory copyrights.
 
@@ -541,11 +541,11 @@ The Directors may set apart out of any funds of the Foundation a reserve or rese
 
 (c)  No Member shall at any time be required to exchange proprietary information with any other Member solely by reason of its being a Member of the Foundation.
 
-**Section 12.4 Form of Records**
+**Section 13.4 Form of Records**
 
 Any records administered by or on behalf of the Foundation in the regular course of its business, including its membership list, books of account, and minute books, may be kept on, or by means of, or be in the form of, any information storage device, method, or one or more electronic networks or databases (including one or more distributed electronic networks or databases), provided that the records so kept can be converted into clearly legible paper form within a reasonable time.  The Foundation shall convert any records so kept into clearly legible paper form upon the request of any person entitled to inspect such records pursuant to any provision of the General Corporation Law of the State of Delaware. When records are kept in such manner, a clearly legible paper form prepared from or by means of the information storage device, method or one or more electronic networks or databases (including one or more distributed electronic networks or databases) shall be valid and admissible in evidence, and accepted for all other purposes, to the same extent as an original paper record of the same information would have been, provided the paper form accurately portrays the record.
 
-**Section 12.5 Document Form, Signature and Delivery**
+**Section 13.5 Document Form, Signature and Delivery**
 
 Without limiting the manner in which any act or transaction may be documented, or the manner in which a document may be signed or delivered:
 
@@ -561,15 +561,15 @@ This provision shall not prohibit one or more persons from conducting a transact
 &nbsp;  
 **ANTITRUST COMPLIANCE**
 
-**Section 13.1 General**
+**Section 14.1 General**
 
 The Foundation will conduct all of its activities in conformance with all international, U.S. federal and state antitrust laws, including the Sherman Act, the Clayton Act, the Robinson-Patman Act and the Federal Trade Commission Act.  The Board of Directors and the President shall consult legal counsel and seek legal review whenever necessary to insure that the activities of the Foundation are conducted in conformance with such laws.
 
-**Section 13.2 Availability of Intellectual Property**
+**Section 14.2 Availability of Intellectual Property**
 
 It is the good faith objective of the Foundation to make all Deliverables developed by Hosted Projects or by the Foundation publicly available upon completion and adoption, either without charge, or upon fair and reasonable terms and conditions.
 
-**Section 13.3 No Obligation to Endorse**
+**Section 14.3 No Obligation to Endorse**
 
 No Member shall, by reason of its membership or participation in the Foundation or otherwise, be obligated to use or endorse any Deliverables, nor shall any such Member be precluded from independently licensing, using or endorsing similar Deliverables or documentation developed by it or by others.
 
