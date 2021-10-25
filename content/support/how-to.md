@@ -15,9 +15,9 @@ There are several ways to support the OMSF and Hosted Projects:
 1. Become a Member
 {{% /h3-green %}}
 
-#### a. Hosted Project Member
+#### a. Hosted Project
 
-By joining a Hosted Project of interest, you become the Hosted Project and OMSF member. Any funds received in this way are spent following decisions made by the governing body of the Hosted Project, under the OMSF oversight. Benefits for Hosted Project Members will be specified in the agreement between the Hosted Project and the OMSF. As a Hosted Project Member, you can nominate and vote for candidates to sit on the OMSF Board of Directors.
+Each Hosted Project is a Member of the OMSF and you can join one or more Hosted Projects of your interest. Benefits for Hosted Project members are specified in the associated participation agreement. Any funds received in this way are spent following decisions made by the governing body of the Hosted Project, under the OMSF oversight.  Hosted Projects can nominate and vote for candidates to sit on the OMSF Board of Directors.
 
 
 #### b. Supporting Member
