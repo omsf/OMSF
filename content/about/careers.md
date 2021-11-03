@@ -106,6 +106,7 @@ Please [**apply here**](https://forms.gle/o8Lz8ux8ENTUZpM69).
 * Excellent leadership and communication skills required
 * Excellent oral, written, and interpersonal and organizational skills required
 * Bonus:
+   - Experience with computational chemistry/biophysics (molecular dynamics, force fields, free energy calculations)
    - Prior project management experience or leadership of large collaborative projects
    - Enthusiasm for open science and open source software
    - Experience with software development practices
