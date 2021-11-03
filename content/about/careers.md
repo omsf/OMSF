@@ -86,7 +86,7 @@ Please [**apply here**](https://forms.gle/o8Lz8ux8ENTUZpM69).
 
 **Expected duties**:
 
-* Manage a highly collaborative effort involving industry partners, academic researchers and software scientists working for the Open Free Energy Fund projects, and other contributors
+* Manage a highly collaborative effort involving industry partners, academic researchers and software scientists
 * Serve as the primary contact between industry partners, software scientists, OMSF staff and other collaborators
 * Document and communicate project status, requirements, deadlines and blocking issues to the Governing Board and Technical Advisory Council
 * Assist in project planning, creating roadmaps and deliverables, and milestone progress tracking
@@ -106,8 +106,8 @@ Please [**apply here**](https://forms.gle/o8Lz8ux8ENTUZpM69).
 * Excellent leadership and communication skills required
 * Excellent oral, written, and interpersonal and organizational skills required
 * Bonus:
+   - Experience with computational chemistry/biophysics (molecular dynamics, force fields, free energy calculations)
    - Prior project management experience or leadership of large collaborative projects
-   - Experience with molecular dynamics simulations and free energy calculations
    - Enthusiasm for open science and open source software
    - Experience with software development practices
 
