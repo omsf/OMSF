@@ -6,7 +6,7 @@ name: "careers"
 weight: 4
 ---
 
-All OMSF positions are currently remote, but placement within a research lab is possible at several locations in the US and Europe. We accept applications worldwide, provided that the OMSF will be able to enter in an appropriate working agreement with the applicant in their country of residence. Please note that you will need to have a valid work permit, as OMSF currently has a limited ability to sponsor any relocation visas at this stage. Please reach out to discuss visa options, if needed. Depending on your location, you might occasionally need to participate in meetings outside of normal business hours due to time zone differences. Our industry and academic collaborators are based in Europe and in the United States.
+All OMSF positions are currently remote, but placement within a research lab is possible at several locations in the US and Europe through our network of academic collaborators. We accept applications worldwide, provided that the OMSF will be able to enter in an appropriate working agreement with the applicant in their country of residence. Please note that you will need to have a valid work permit, as OMSF currently has a limited ability to sponsor any relocation visas at this stage. Please reach out to discuss visa options, if needed. Depending on your location, you might occasionally need to participate in meetings outside of normal business hours due to time zone differences. Our industry and academic collaborators are based in Europe and in the United States.
 
 When applying, please use the linked forms below. Please reach out to careers@omsf.io if you have any questions or trouble accessing the forms.
 
@@ -21,7 +21,7 @@ When applying, please use the linked forms below. Please reach out to careers@om
 
 The Open Free Energy Fund is an industry-led and highly collaborative effort to build open source infrastructure to support accurate and efficient free energy calculations used in early stages of drug discovery. The Open Free Energy Fund is a newly established program supported by the Open Molecular Software Foundation. More information about the leadership and contributors will be shared on the project's website in the future.
 
-The Open Free Energy Fund is seeking lead/senior/junior software scientists to work on open source infrastructure for alchemical free energy calculations. Multiple positions available, dependent on the available funding.
+The Open Free Energy Fund is seeking a junior software scientist to work on open source infrastructure for alchemical free energy calculations with a tentative start date in the second half of 2022.
 
 If you would like to pursue career in research software development for molecular sciences, please [**apply here**](https://forms.gle/X82SUQUXUZ84munb8).
 
@@ -37,20 +37,6 @@ If you would like to pursue career in research software development for molecula
 * Assist in packaging software developed by the effort to minimize user friction
 * Work to identify and solve technical or usability issues with project members and wider user community  
 
-*Senior Software Scientist*
-* All above, and
-* Interface with the biomolecular software ecosystem, help define standards, and identify key opportunities to fill gaps in need
-* Assist with software architecture, crafting APIs, and defining the development roadmap
-* Mentor less experienced developers and drive the best practices used in development
-
-
-*Lead Software Scientist:*
-* All above, and
-* Lead the software roadmap planning and outlining deliverables in collaboration with the Technical Advisory Committee and Governing Board
-* Interface closely with pharma partners to maximize usability of the resulting tools
-* Build the team and assist with searches for new developers as positions become available
-* Lead development of best practices, standards, and conventions that will be adopted by all developers on the project
-* Make budgetary recommendations to the Governing Board
 
 **Requirements:**
 
@@ -62,54 +48,7 @@ For the *Junior* position, we are seeking:
 * Familiarity or expertise with alchemical free energy calculations is desirable, but not required
 * Experience contributing to a software project with more than one developer, or a demonstration of the ability to work collaboratively
 
-For the *Senior* position, the following additional qualifications are desirable:
-* Experience working with distributed teams on large open source projects
-* Experience with software architectural design and the design of APIs
-* Experience mentoring less experienced developers
 
-For the *Lead* position, the following additional qualifications are desirable:
-* Experience with managing others, especially on distributed teams
-* Experience interfacing with or collaborating with pharma scientists
-
-
-
-{{% h2 %}}
-## Project Manager
-{{% /h2 %}}
-
-**OPEN FREE ENERGY FUND  &  OPEN FORCE FIELD INITIATIVE**
-
-
-The Open Free Energy Fund (see above) and [Open Force Field Initiative](https://openforcefield.org) are seeking a motivated individual who share project management duties between two projects. The project manager will help create and implement the strategies for effective project functioning, and coordinate between multiple industry partners, academic researchers, software scientists and other stakeholders involved in both projects. This person will also serve as a key contact point for the  Governing Boards, working groups, OMSF staff and officers, software scientists and other project contributors. Further duties include assisting in project planning and progress tracking, and providing necessary support to the project teams to achieve their goals and overall milestones. The project manager will serve as a hub and assist with identifying common infrastructure and research interests and goals between the two projects, and help coordinate the efforts.
-
-Please [**apply here**](https://forms.gle/o8Lz8ux8ENTUZpM69).
-
-**Expected duties**:
-
-* Manage a highly collaborative effort involving industry partners, academic researchers and software scientists
-* Serve as the primary contact between industry partners, software scientists, OMSF staff and other collaborators
-* Document and communicate project status, requirements, deadlines and blocking issues to the Governing Board and Technical Advisory Council
-* Assist in project planning, creating roadmaps and deliverables, and milestone progress tracking
-* Develop and maintain knowledge base and relevant file systems, with support from OMSF
-* Develop protocols and processes for the internal functioning of the OpenFE Fund.
-* Manage internal and external communication and outreach (email, messaging platforms, social media, project website, events)
-* Website design and maintenance, or oversight thereof
-* Event organization and community building
-* Organize meetings and take notes
-* Assist with personnel onboarding and hiring process (manage job ads and interviews with other relevant stakeholders).
-
-**Requirements:**
-* Master/PhD in computational chemistry or biophysics
-* Ability to work in a cross-functional role in a multi-institutional collaboration to effectively manage and deliver on research goals
-* Ability to adapt to and effectively manage changes in a fast paced and dynamic environment
-* Ability to integrate information from multiple sources and prioritize tasks critical for project success
-* Excellent leadership and communication skills required
-* Excellent oral, written, and interpersonal and organizational skills required
-* Bonus:
-   - Experience with computational chemistry/biophysics (molecular dynamics, force fields, free energy calculations)
-   - Prior project management experience or leadership of large collaborative projects
-   - Enthusiasm for open science and open source software
-   - Experience with software development practices
 
 
 {{% h2 %}}
