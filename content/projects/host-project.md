@@ -22,11 +22,11 @@ The OMSF charges a fee to each Hosted Project to cover the costs of business adm
 {{% h3-green %}}
 How to become a Hosted Project?
 {{% /h3-green %}}
-1. Send a brief description of your project and how it satisfies requirements listed above to [sponsorship@omsf.io](mailto:sponsorship@omsf.io). The Board of Directors will review your application.
+1. Please apply by filling out this [form](https://forms.gle/AYYijckRW168c3WV9). The Board of Directors will review your application.
 
-2. If accepted, work with the OMSF to create an agreement defining the governance structure and membership plan for your supporting organizations (or individuals). This document will also specify the relationship and obligations for the Hosted Project and the OMSF. If your project is pre-existing, work with the OMSF to plan migration and adaptation to ensure it can fit as a Hosted Project.
+2. If accepted, your team will work with OMSF to create an agreement defining the governance structure and membership plan for your supporting organizations (or individuals). This document will also specify the relationship and obligations between the Hosted Project and OMSF. If your project is already up and running, we will work with you to plan the migration of your project and its assets under the OMSF umbrella.
 
-3. Start your project with the OMSF!
+3. Ready to go!
 
 
 {{% h3-green %}}
@@ -43,5 +43,5 @@ You might want to:
 - Reduce overhead costs
 - Receive donations for your project
 - Have access to legal advice and insurance
-- Share resources and knowledge with other similar projects
-- Do something you&#39;ve never done before and OMSF seems like the perfect place for it!
+- Share resources and knowledge with other open source projects and researchers
+- Do something different and OMSF seems like your natural partner
