@@ -1,31 +1,68 @@
 {{ define "main" }}
 
-<section id="list">
+<article>
+	<span>
+{{ if eq .Title "FAQ" }}
 
-    {{ if eq .Data.Singular "tag" }}
-        <h2>#{{ .Title | lower }}</h2>
-    {{ else }}
-        <h2>{{ .Title }}</h2>
-    {{ end }}
+			<h1>1. Fiscal Sponsorship</h1> 
+{{ $fs := where .Site.RegularPages ".Params.categories" "intersect" (slice "Fiscal Sponsorship") }}
+{{ range first 999 $fs }} 
+			<div class="news-post color-{{ .Params.colors }}">       
+           <div class="news-title"><h2>{{ .Title }}</h2></div>
+           <div class="news-content"> {{ .Content }} </div> 
+			</div>
+{{ end }}
+ 
+ 			<h1>2. OMSF</h1> 
+ {{ $omsf := where .Site.RegularPages ".Params.categories" "intersect" (slice "OMSF") }}
+{{ range first 999 $omsf }}  
+			<div class="news-post color-{{ .Params.colors }}">       
+           <div class="news-title"><h2>{{ .Title }}</h2></div>
+           <div class="news-content"> {{ .Content }} </div> 
+			</div>
+ {{ end }}
+ 
+ 
+  			<h1>3. Hosted projects</h1> 
+  {{ $hp := where .Site.RegularPages ".Params.categories" "intersect" (slice "Hosted projects") }}
+{{ range first 999 $hp }}  
+			<div class="news-post color-{{ .Params.colors }}">       
+           <div class="news-title"><h2>{{ .Title }}</h2></div>
+           <div class="news-content"> {{ .Content }} </div> 
+			</div>
+ {{ end }}
+ 
+ 			<h1>4. Other</h1>      
+   {{ $other := where .Site.RegularPages ".Params.categories" "intersect" (slice "Other") }}
+{{ range first 999 $other }}  
+			<div class="news-post color-{{ .Params.colors }}">       
+           <div class="news-title"><h2>{{ .Title }}</h2></div>
+           <div class="news-content"> {{ .Content }} </div> 
+			</div>
+ {{ end }}
+ 
+ 
+ {{ end }}
 
-    {{ .Content }}
+	</span>
+</article>
 
-    {{ range (.Paginate (.Data.Pages.GroupByDate "2006")).PageGroups  }}
-
-    <h3>{{ .Key }}</h3>
-    <ul>
-        {{ range .Pages }}
-        <li>
-            <a href="{{ .Permalink }}">{{ if .Draft }}{{ T "draft" }}: {{end}}{{ .Title | markdownify }}</a>
-            <time class="date-meta">{{ .Date.Format "Jan 2" }}</time>
-        </li>
+{{ if eq .Title "News" }}
+{{ $ev := where site.RegularPages "Type" "news" }}
+{{ range first 999 $ev }}        
+        
+        <div class="news-title"><h1>{{ .Params.category }}</h1></div>
+    
+			<div class="news-post color-{{ .Params.colors }}">       
+           <div class="news-title"><h1>{{ .Title }}</h1></div>
+           <div class="news-content"> {{ .Content }} </div> 
+			</div>
         {{ end }}
-    </ul>
-
-    {{ end }}
-
-</section>
-
-{{ template "_internal/pagination.html" . }}
+ 
+	</span>
+</article>
 
 {{ end }}
+{{ end }}
+
+

@@ -1,30 +1,7 @@
-<!-- sidebar start -->
-<aside>
-    <ul>
-        {{ $currentPage := . }}
-        {{ range .Site.Menus.news }}
-            {{ if .HasChildren }}
-                <li class="{{ if $currentPage.HasMenuCurrent "news" . }}active{{ end }}">
-                    <a href="#">
-                        {{ .Pre }}
-                        <span>{{ .Name }}</span>
-                    </a>
-                </li>
-                <ul class="sub-menu">
-                    {{ range .Children }}
-                        <li class="{{ if $currentPage.IsMenuCurrent "news" . }}active{{ end }}">
-                            <a href="{{ .URL }}">{{ .Name }}</a>
-                        </li>
-                    {{ end }}
-                </ul>
-            {{ else }}
-                <li>
-                    <a class="{{ if $currentPage.IsMenuCurrent "news" . }}active{{ end }}" href="{{ .URL }}">
-                        {{ .Pre }}
-                        <span>{{ .Name }}</span>
-                    </a>
-                </li>
-            {{ end }}
-        {{ end }}
-    </ul>
-</aside>
+<article>
+
+    <h1>{{ .Title }}</h1>
+
+    {{ .Content }}
+
+</article>

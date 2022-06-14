@@ -3,6 +3,11 @@
   [module.hugoVersion]
     extended = false
     min = "0.55.0"
+	summaryLength = 10
+
+[taxonomies]
+  color = "color"
+  categories = "category"
 
 [blackfriday]
     extensions = ["hardLineBreak"]
@@ -24,7 +29,7 @@
         [[menu.main]]
           identifier = "projects"
           name = "Projects"
-          url = "/projects/host-project"
+          url = "/projects/project-list"
           weight = 30
 
       [[menu.main]]
@@ -32,3 +37,15 @@
         name = "Support"
         url = "/support/how-to"
         weight = 40
+
+      [[menu.main]]
+        identifier = "news"
+        name = "News"
+        url = "/news"
+        weight = 50
+
+      [[menu.main]]
+        identifier = "faq"
+        name = "FAQ"
+        url = "/faq"
+        weight = 60

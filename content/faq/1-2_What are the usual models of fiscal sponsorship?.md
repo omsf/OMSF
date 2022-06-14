@@ -1,0 +1,10 @@
+---
+title: 1.2 What are the usual models of fiscal sponsorship?
+categories: [ "Fiscal Sponsorship" ]
+colors: "pink"
+---
+
+There are six commonly employed models of fiscal sponsorship. This table provides a good overview of each model and their differences. Different models impose different responsibilities on the sponsor and project, such as filing the IRS tax returns, etc. The most relevant models for OMSF include:
+- Model A (Direct Project/Comprehensive Model) – . In this model, the sponsored project becomes a program of the fiscal sponsor and the sponsor (OMSF) takes comprehensive responsibility for the project. The fiscal sponsor assumes liability for all project assets and activities, including its employees, contractors and volunteers. This is one of the least financially independent models, as the sponsor has ultimate control, but projects may have a substantial level of autonomy. Projects following this model within OMSF are called Hosted Projects. This is one of the most widely used models of fiscal sponsorship.
+- Model B (Independent Contractor Project) – Project belongs to sponsor but is conducted by a separate entity under contract. The sponsor retains and pays the independent contractor with donated funds, and the contractor accounts for its own income and pays for the expenses.
+- Model C (Pre-approved grant) – In this model, the fiscal sponsor (grantor) receives funds and re-grants them to a pre-approved project owned by another organization (grantee), provided that the project is aligned with the grantor’s charitable purpose. In this arrangement, all project’s assets and liabilities lie with the grantee, including tax and filing obligations, meaning that the grantee is responsible to record the revenue and pay out all expenses directly to their contractors, vendors, employees, etc. The sponsor (grantor) receives and distributes the funds on behalf of the project, assuring that the funds will be used by the project to accomplish the ends described in the grant proposal in line with the sponsor’s charitable purpose and any additional terms set by the funding source. 

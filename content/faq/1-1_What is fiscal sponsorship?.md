@@ -1,0 +1,9 @@
+---
+title: 1.1 What is fiscal sponsorship?
+categories: [ "Fiscal Sponsorship" ]
+colors: "pink"
+---
+
+Simply put, fiscal sponsorship allows extension of the legal and tax-exempt status of nonprofit organizations to sponsored projects or groups, provided that these projects further the mission of their fiscal sponsor. The benefits of fiscal sponsorship are nicely summarized in this Wikipedia quote: “Fiscal sponsorship can enable projects to share a common administrative platform with a larger organization, thus increasing efficiency. In addition to legal status, sponsors can provide payroll, employee benefits, office space, publicity, fundraising assistance, and training services, sparing projects the necessity of developing these resources and allowing them to focus on programmatic activities.”
+
+Fiscal sponsors provide administrative services and oversight to the projects (or groups) engaged in work that furthers fiscal sponsors’ mission, and assume legal and financial responsibility – they usually charge a fee for these services. There are different models of fiscal sponsorship with varying levels of financial independence and benefits for sponsored projects with respect to the sponsoring organization. It is generally recommended to define the relationship between the sponsored projects and fiscal sponsor in a written agreement, specifying obligations and responsibilities of both parties. Fiscal sponsors may accept tax-deductible contributions or grants on behalf of the sponsored projects, but they are responsible for ensuring that all funds are used in line with its charitable purpose and any additional restrictions coming from funders. 

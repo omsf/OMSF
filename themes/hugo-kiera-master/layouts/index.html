@@ -9,6 +9,16 @@
 
 </section>
 
+<div class="news-overview">
+{{ range ( first 3 ( where .Site.Pages "Type" "post" ).ByDate ) }}
+	<div class="news-post color-{{ .Params.colors }}">
+           <div class="news-title"> {{ .Title }} </div>
+            <div class="news-content"> {{ .Summary }} </div>   
+            <a class="news-readmore bg-{{ .Params.colors }}" href="{{.RelPermalink}}">Read more</a>       
+    </div>
+  {{ end }}  
+ </div>
+
  {{ partial "canvas.html" . }}
 
 {{ end }}
