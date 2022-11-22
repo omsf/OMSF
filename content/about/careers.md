@@ -74,7 +74,7 @@ Run reports on engagement metrics on websites, social media and forums to improv
 
 **Compensation**
 
-This is a full-time, fixed contract position with a salary range of $70,000-$90,000 for a person based in the US, commensurate with experience, skills, and local benefits requirements. We also provide standard benefits, such as healthcare, 401(k) and paid time off. If you are applying from a foreign country, please note that your salary will be negotiated in your local currency and may differ from the range suggested above, depending on the total cost of employment in your country, which varies greatly from country to country due to differences in mandatory employer contributions. Costs of setting up a home office and work-related travel will be covered.
+This is a full-time, fixed contract position with a salary range of $70,000-$90,000 for a person based in the US, depending on the candidate's qualifications, experience and specific location. We also provide standard benefits, such as healthcare and 401(k) plans, and generous paid time off. If you are applying from a foreign country, please note that your salary will be negotiated in your local currency and may differ from the range suggested above, depending on the total cost of employment in your country, which varies greatly from country to country due to differences in mandatory employer contributions. Costs of setting up a home office and work-related travel will be covered.
 
 **Application Process**
 
