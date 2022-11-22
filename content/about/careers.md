@@ -24,10 +24,10 @@ When applying, please use the application forms linked below. Please reach out t
 **Role description**
 
 The Open Molecular Software Foundation (OMSF) is looking for a Community Manager who will grow and support open source communities in molecular sciences. The Community Manager’s duties will center around managing, designing and improving all aspects of communication inside and outside of our organization. The Community Manager will work relentlessly to improve the clarity of communication and accessibility of information and resources to our projects and communities. This includes:
-Internal communication within projects and between projects to ensure synergies and gaps are identified and addressed, such as writing reports in collaboration with the project teams;
-External communication to ensure the broader community is aware of OMSF’s projects, resources and capabilities, such as designing and maintaining a new website, writing newsletters, blog posts, etc.;
-Managing social media channels and forums to ensure our users, contributors and partners have an easy access to information and useful materials, and to each other;
-Assisting with and/or organizing online and in-person events to bring together our community members for focused training, hackathons, and networking.
+- Internal communication within projects and between projects to ensure synergies and gaps are identified and addressed, such as writing reports in collaboration with the project teams;
+- External communication to ensure the broader community is aware of OMSF’s projects, resources and capabilities, such as designing and maintaining a new website, writing newsletters, blog posts, etc.;
+- Managing social media channels and forums to ensure our users, contributors and partners have an easy access to information and useful materials, and to each other;
+- Assisting with and/or organizing online and in-person events to bring together our community members for focused training, hackathons, and networking.
 
 This role is a fully remote, grant-funded position with a minimum duration of 2 years and a possibility of further extension, depending on the available funding.  Please note that, depending on your location, you might occasionally need to participate in meetings outside of normal business hours due to time zone differences. Our teams and collaborators are mostly based in Europe and in the United States.
 
