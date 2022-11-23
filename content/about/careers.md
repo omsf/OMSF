@@ -15,7 +15,7 @@ All OMSF positions are currently remote and we generally accept applications wor
 When applying, please use the application forms linked below. Please reach out to careers@omsf.io if you have any additional questions or need help.
 
 {{% h2 %}}
-## Community Manager
+## <a name="communitymanager"></a>Community Manager
 {{% /h2 %}}
 
 
@@ -29,21 +29,22 @@ The Open Molecular Software Foundation (OMSF) is looking for a Community Manager
 - Managing social media channels and forums to ensure our users, contributors and partners have an easy access to information and useful materials, and to each other;
 - Assisting with and/or organizing online and in-person events to bring together our community members for focused training, hackathons, and networking.
 
-This role is a fully remote, grant-funded position with a minimum duration of 2 years and a possibility of further extension, depending on the available funding.  Please note that, depending on your location, you might occasionally need to participate in meetings outside of normal business hours due to time zone differences. Our teams and collaborators are mostly based in Europe and in the United States.
+This role is a fully remote, grant-funded position with a minimum duration of 2 years and a possibility of further extension, depending on the available funding.  Please note that, depending on your location, you might occasionally need to participate in meetings outside of normal business hours due to time zone differences. Our teams and collaborators are mostly based in Europe and in the United States. This role will require occasional travel for work.
 
-The Community Manager will work closely with the executive director, project teams, advisory boards, and others to build a strong community of researchers, developers and funders sharing the common goal of improving molecular sciences through open science and open source research software. This is a new role in the organization offering many opportunities to shape up our community and the role itself, and a driven and self-motivated individual would be best suited for the role. The Community Manager will also have access to some training opportunities and resources developed by the Center for Scientific Collaboration and Community Engagement (CSCCE).
+The Community Manager will work closely with the executive director, project teams, advisory boards, and others to build a strong community of researchers, developers and funders sharing the common goal of improving molecular sciences through open science and open source research software. This is a new role in the organization offering many opportunities to shape up our community and the role itself, and a driven and resourceful individual would be best suited for the role. The Community Manager will be encouraged to participate in career development activities and hone their skills through available training opportunities, such as workshops and resources developed by the [Center for Scientific Collaboration and Community Engagement (CSCCE)](https://www.cscce.org/). The Community Manager will report directly to the executive director.
+
 
 
 **Expected duties**
 
 *Community building*
 
-- Develop and implement an outreach program for OMSF and Hosted Projects through relationship building and other community-oriented activities and events
+- Develop and implement an outreach program for OMSF and Hosted Projects through relationship building and other community-oriented activities and events.
 - Run surveys to better understand the needs of our community and how to improve participation in our communities for different stakeholders.
 - Actively engage in community discussions and act as a moderator in OMSF public spaces.
-- Organize and host online and in-person events relevant for the OMSF projects and the organization as a whole
-- Attend relevant meetings with OMSF teams and other stakeholders, and set up regular check-ins when needed
-- Assist OMSF projects with their outreach activities and user engagement strategies
+- Organize and host online and in-person events relevant for the OMSF projects and the organization as a whole.
+- Attend relevant meetings with OMSF teams and other stakeholders, and set up regular check-ins when needed.
+- Assist OMSF projects with their outreach activities and user engagement strategies.
 - Assist with onboarding new OMSF projects, point them to the relevant information repositories, create a basic checklist for each project, and assign communication roles and channels.
 - Assist with creation of promotional materials and pitch decks for each project and OMSF as a whole, and other informative resources for interested industry partners and collaborators.
 - Manage user and contributor requests and assist with training and onboarding. For example, work with all our projects to build a list of issues tagged as “good first issue”.
@@ -51,17 +52,17 @@ The Community Manager will work closely with the executive director, project tea
 
 *Communication*
 
-- Develop communication strategies for efficient information gathering and exchange between OMSF projects (internally) and other communities in molecular sciences – become a central information hub.
+- Develop communication strategies for efficient information gathering and exchange between OMSF projects (internally) and other communities in molecular sciences (externally), i.e. build an information hub for open source projects in molecular sciences.
 - Keep track of general OMSF activities and proactively share information of interest with targeted audiences (teams, users, general community). For example, highlight possible collaboration and funding opportunities, as well as training and onboarding opportunities in our ecosystem.
 - Design a new website to host different content and resources of interest for our community and continuously improve user experience.
 - Create and curate content for newsletters, blog posts, how-to guides, etc. with an aim to create a valuable resource collection for open source projects in our ecosystem.
 - Manage social media channels, create/share content, boost posts and engage with the social media users as appropriate.
-Run reports on engagement metrics on websites, social media and forums to improve our communication strategy based on the observations.
+- Run reports on engagement metrics on websites, social media and forums to improve our communication strategy based on the observations.
 
 **Skills & Experience**
 
 - A high degree in computational chemistry, biophysics or related discipline: BS with 5+ years of related experience OR Master’s with 2+ years of related experience OR PhD
-- Effective science communicator with excellent written and verbal communication skills, i.e. being able to separate signal from noise and timely serve relevant information to our community members in a clear and concise manner
+- Effective science communicator with excellent written and verbal communication skills, i.e. being able to separate signal from noise and serve relevant information to our community members in a concise and timely manner
 - Experience with (open source) research software in molecular sciences
 - Ability to navigate complex relationships of large distributed, collaborative projects and creatively manage time zone challenges
 - Experience with remote work, asynchronous communication, and globally distributed teams, including familiarity with remote work tools – Google Workspace, Zoom, Slack, Github, etc.
@@ -74,11 +75,11 @@ Run reports on engagement metrics on websites, social media and forums to improv
 
 **Compensation**
 
-This is a full-time, fixed contract position with a salary range of $70,000-$90,000 for a person based in the US, depending on the candidate's qualifications, experience and specific location. We also provide standard benefits, such as healthcare and 401(k) plans, and generous paid time off. If you are applying from a foreign country, please note that your salary will be negotiated in your local currency and may differ from the range suggested above, depending on the total cost of employment in your country, which varies greatly from country to country due to differences in mandatory employer contributions. Costs of setting up a home office and work-related travel will be covered.
+This is a full-time, fixed contract position with the expected gross salary range of $70,000-$90,000, depending on the applicant’s qualifications, experience and specific location. OMSF provides standard benefits, such as healthcare, contributions to retirement funds and paid time off, and other employer contributions in compliance with local regulations. Please note that the salary range suggested above is only indicative and the final compensation package will depend on the total cost of employment in the applicant's country of residence, which varies greatly from country to country due to differences in mandatory employer contributions. The salary will be negotiated and paid in the local currency. Costs of setting up a home office and work-related travel will be covered.
 
 **Application Process**
 
-We accept applications from around the world. Any additional queries about the role, OMSF, visas, etc. can be sent to careers@omsf.io.
+We accept applications worldwide. Any additional queries about the role and OMSF can be directed to careers@omsf.io.
 
 Please apply using [**this form**](https://forms.gle/ejvMFrE3qCAMT6vq6).
 
