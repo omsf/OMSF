@@ -39,12 +39,12 @@ The Community Manager will work closely with the executive director, project tea
 
 *Community building*
 
-- Develop and implement an outreach program for OMSF and Hosted Projects through relationship building and other community-oriented activities and events
+- Develop and implement an outreach program for OMSF and Hosted Projects through relationship building and other community-oriented activities and events.
 - Run surveys to better understand the needs of our community and how to improve participation in our communities for different stakeholders.
 - Actively engage in community discussions and act as a moderator in OMSF public spaces.
-- Organize and host online and in-person events relevant for the OMSF projects and the organization as a whole
-- Attend relevant meetings with OMSF teams and other stakeholders, and set up regular check-ins when needed
-- Assist OMSF projects with their outreach activities and user engagement strategies
+- Organize and host online and in-person events relevant for the OMSF projects and the organization as a whole.
+- Attend relevant meetings with OMSF teams and other stakeholders, and set up regular check-ins when needed.
+- Assist OMSF projects with their outreach activities and user engagement strategies.
 - Assist with onboarding new OMSF projects, point them to the relevant information repositories, create a basic checklist for each project, and assign communication roles and channels.
 - Assist with creation of promotional materials and pitch decks for each project and OMSF as a whole, and other informative resources for interested industry partners and collaborators.
 - Manage user and contributor requests and assist with training and onboarding. For example, work with all our projects to build a list of issues tagged as “good first issue”.
