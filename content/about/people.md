@@ -16,7 +16,7 @@ weight: 3
 [Linkedin](https://www.linkedin.com/in/brian-weitzner) | [Web](https://weitzner.org/)
 _Outpace Bio_
 
-Dr. Brian Weitzner is the Director of Computational and Structural Biology at [Outpace Bio](https://www.outpacebio.com/). His research interests are focused on using and deepening our understanding of protein sequence–structure–function relationships to design novel proteins to address problems in human health. Additionally, Brian has strong interests in research software and community building practices. He’s been a long time contributor to [Rosetta Commons](https://www.rosettacommons.org/) and he’s one of the founding members of [OpenFold](https://openfold.io).
+Dr. Brian Weitzner is the Director of Computational and Structural Biology at [Outpace Bio](https://www.outpacebio.com/), where he uses protein design to develop the next generation of cell-based immunotherapies for cancers. His research is focused on using and deepening our understanding of protein sequence–structure–function relationships to design novel proteins to address problems in human health. In addition to his scientific expertise, Brian brings experience with research software development and community building practices as an active contributor to [Rosetta Commons](https://www.rosettacommons.org/) and founding member of [OpenFold](https://openfold.io).
 {{% /image %}}
 
 {{% image %}}
@@ -27,7 +27,7 @@ Dr. Brian Weitzner is the Director of Computational and Structural Biology at [O
 _Bayer AG_
 
 
-Dr. Clara Christ is the Vice President, Head of Molecular Design at Bayer AG where her team focuses on advancing drug discovery projects with structural insights and digital means. She has worked as a computational chemist at Bayer AG since 2013 focusing on drug design in the therapy area oncology. Besides giving computational chemistry support in all stages of research projects she has been working on improved methods in the areas of de novo design, structure property analysis, and binding affinity prediction. Clara represents Bayer AG in the Open Free Energy Consortium.
+Dr. Clara Christ is the Vice President, Head of Molecular Design at Bayer AG where her team focuses on advancing drug discovery projects with structural insights and digital means. She has worked as a computational chemist at Bayer AG since 2013 focusing on drug design in the therapy area oncology. Besides giving computational chemistry support in all stages of research projects she has been working on improving methods in the areas of de novo design, structure property analysis, and binding affinity prediction. Clara represents Bayer AG in the Open Free Energy Consortium.
 {{% /image %}}
 
 
