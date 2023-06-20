@@ -15,10 +15,8 @@ All OMSF positions are currently remote and we generally accept applications wor
 When applying, please use the application forms linked below. Please reach out to careers@omsf.io if you have any additional questions or need help.
 
 {{% h2 %}}
-## Project Manager (OpenFE & OpenFF)
+## Community Manager
 {{% /h2 %}}
-
-**PROJECTS: [OPEN FREE ENERGY](https://openfree.energy) & [OPEN FORCE FIELD](https://openforcefield.org)**
 
 **Role description**
 
