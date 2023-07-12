@@ -65,47 +65,6 @@ Base salary $120-165k/year depending on experience. Annual bonus based on clearl
 Please apply using [**this form**](https://forms.gle/EZ5RfrxTuKiEUSoQ6).
 
 
-
-{{% h2 %}}
-## Software Scientist
-{{% /h2 %}}
-
-
-**OPEN FREE ENERGY FUND**
-
-
-The Open Free Energy Fund is an industry-led and highly collaborative effort to build open source infrastructure to support accurate and efficient free energy calculations used in early stages of drug discovery. The Open Free Energy Fund is a newly established program supported by the Open Molecular Software Foundation. More information about the leadership and contributors will be shared on the project's website in the future.
-
-The Open Free Energy Fund is seeking a junior software scientist to work on open source infrastructure for alchemical free energy calculations with a tentative start date in the second half of 2022.
-
-If you would like to pursue career in research software development for molecular sciences, please [**apply here**](https://forms.gle/X82SUQUXUZ84munb8).
-
-**Expected duties**
-
-*Junior Software Scientist*
-
-* Work collaboratively with other software scientists to implement features, write tests, debug failures, and craft documentation to reach release milestones for open source projects owned by the effort developed openly on GitHub
-* Contribute to open source software projects within the larger biomolecular simulation ecosystem when upstream contributions will help solve issues for the larger community
-* Follow best practices for Python software development, including participating in code reviews, writing unit tests, and adhering to documentation standards
-* Work closely with members of the Technical Advisory Committee to design software and APIs and solve problems with algorithms, methodologies, or issues with tools outside the project
-* Assist in benchmarking and assessment of the tools produced by the effort
-* Assist in packaging software developed by the effort to minimize user friction
-* Work to identify and solve technical or usability issues with project members and wider user community  
-
-
-**Requirements:**
-
-For the *Junior* position, we are seeking:
-* Familiarity with Python and the Python ecosystem
-* Familiarity with molecular simulation principles and algorithms
-* Experience with GitHub and open source software development workflows
-* Experience with good practices for unit testing, continuous integration, and software documentation
-* Familiarity or expertise with alchemical free energy calculations is desirable, but not required
-* Experience contributing to a software project with more than one developer, or a demonstration of the ability to work collaboratively
-
-
-
-
 {{% h2 %}}
 ## OMSF Expression of Interest
 {{% /h2 %}}
