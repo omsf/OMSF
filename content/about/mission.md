@@ -59,7 +59,7 @@ Visit our [Services page](/services/fiscal-sponsorship) for more information abo
 ## How it works
 {{% /h2 %}}
 
-The OMSF is a nonprofit organization currently seeking 501(c)(3) tax exempt status. The organization pursues its mission by focusing on two key areas:
+The OMSF is a nonprofit organization holding 501(c)(3) tax exempt status. The organization pursues its mission by focusing on two key areas:
 
 ![image alt text](/images/OMF-img2.jpg)
 
