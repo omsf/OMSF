@@ -21,14 +21,20 @@
         url = "/services/fiscal-sponsorship/"
         weight = 20
 
-        [[menu.main]]
-          identifier = "projects"
-          name = "Projects"
-          url = "/projects/host-project"
-          weight = 30
+      [[menu.main]]
+        identifier = "projects"
+        name = "Projects"
+        url = "/projects/host-project"
+        weight = 30
+
+      [[menu.main]]
+          identifier = "news"
+          name = "News"
+          url = "https://news.omsf.io"
+          weight = 40
 
       [[menu.main]]
         identifier = "support"
         name = "Support"
         url = "/support/how-to"
-        weight = 40
+        weight = 50
