@@ -3,12 +3,12 @@ title: "OMSF Projects"
 date: 2018-05-30T13:17:20+02:00
 menu: projects
 name: "project-list"
-weight: 2
+weight: 1
 ---
 
 This is the current list of projects under the OMSF umbrella.
 
-If you are interested to become a member of any of the projects, please fill out this [**form**](https://forms.gle/b3tFpZxxfrHSY8PT9) or reach out to info@omsf.io.
+If you are interested to become a member of any of the projects, please reach out to info@omsf.io.
 
 {{% h3-green %}}
 [OpenFold Consortium](https://openfold.io)
@@ -19,7 +19,6 @@ OpenFold is a non-profit AI research and development consortium developing free 
 Structure Prediction
 
 In biology, structure and function are inextricably linked. Understanding the mechanisms of biological systems, their engineering, and how to affect them therefore implies a need to know and understand their structure. The consortium is creating state-of-the-art AI-based protein modeling tools that can predict molecular structures with atomic accuracy, making this level of precision accessible in open source for both research and commercial applications for the first time. Researchers around the world will be able to use, improve, and contribute to this "predictive molecular microscope.”
-Goals
 
 This work aims to:
 - Develop a permissively licensed model competitive with the performance of state-of-the-art models.
@@ -49,3 +48,12 @@ Following the 2018 Alchemical Free Energy Methods in Drug Discovery meeting in G
 - Accelerate the development of robust, scalable, and flexible open source GPU-accelerated alchemical free energy packages and the associated ecosystem of essential scientific software.
 - Develop infrastructure for interoperable workflow components to enable portable, interoperable, and robust free energy calculation workflows and an open component registry.
 - Establish standards for free energy calculations.
+
+
+{{% h3-green %}}
+[Open Rosetta](https://rosettacommons.org/)
+{{% /h3-green %}}
+
+Open Rosetta is the project exploring the transition pathways for the Rosetta Commons to an open source model under the OMSF umbrella, with the initial focus on the community building efforts and new developments. The Rosetta Commons are a community of over 100 labs worldwide who collectively develop Rosetta, the macromolecular modeling suite that has led the field of protein and RNA modeling and design for over two decades, and many emerging artificial intelligence based approaches recently. The Rosetta software allows tackling a variety of molecular modeling problems including protein design, protein-protein interactions, protein small molecule interactions, and protein structure prediction. The software can model biomolecules including proteins, DNA, RNA, carbohydrates, lipids; systems ranging from antibodies, enzymes, membrane proteins, systems including non-canonical amino acids, with or without the use of different types of experimental data ranging from density maps from cryoEM or crystallography, and other structural biology methods including NMR, EPR, mass-spectrometry, and cross-linking. Currently, the Rosetta suite is available under a custom license free of charge for non-commercial use through the University of Washington. Legal mechanisms enabling adoption of one of the standard open source licenses are under review.
+
+The goal of the Rosetta Commons is to continue developing state-of-the-art tools in macromolecular modeling and design in conjunction with deep learning technology and to keep driving scientific progress that allows solving some of the biggest challenges the world is facing today. The Rosetta community believe that the open source model is not just deeply aligned with their values, but also the most efficient mechanism to harness the power of open science and collaborative mindset spanning academia, government laboratories, institutes, research centers and partner corporations to build future technologies in biomolecular modeling.

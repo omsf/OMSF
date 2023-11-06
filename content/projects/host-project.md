@@ -2,7 +2,7 @@
 title: "Host Your Project"
 menu: projects
 name: "host-project"
-weight: 1
+weight: 2
 ---
 
 
