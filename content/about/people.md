@@ -42,6 +42,16 @@ Prof. David Mobley holds a joint appointment in the Pharmaceutical Sciences and 
 {{% /image %}}
 
 {{% image %}}
+![Jeffrey J. Gray](/images/Jeffrey-Gray.jpg)
+**Jeffrey J. Gray**
+*Director*
+[Twitter](https://twitter.com/jeffreyjgray) | [Linkedin](https://www.linkedin.com/in/jeffreygray/) | [Web](https://graylab.jhu.edu/)
+_Johns Hopkins University_
+
+Prof. Jeffrey Gray is a faculty member at  Johns Hopkins University where he leads a research group focused on computational protein structure prediction and design, particularly protein-protein docking, therapeutic antibodies, and glycoproteins, and deep learning. Prof. Gray is the co-director of Rosetta Commons and a long-time contributor to research software development. His group has contributed to development of RosettaDock, RosettaAntibody, RosettaCarbohydrate, the ROSIE web server, and the PyRosetta interactive platform. The Gray lab also leads the technical and scientific code testing for the Commons. Prof. Gray serves as the Rosetta Commons Diversity Chair and directs the National Science Foundation (NSF)-supported Rosetta Commons Summer Intern Program.
+{{% /image %}}
+
+{{% image %}}
 ![Karmen Condic-Jurkic](/images/karmen.jpg)
 **Karmen Čondić-Jurkić**
 *Executive Director, Co-Founder*
@@ -49,15 +59,4 @@ Prof. David Mobley holds a joint appointment in the Pharmaceutical Sciences and 
 _Open Molecular Software Foundation_
 
 Dr. Karmen Čondić-Jurkić is the co-founder and Executive Director of the Open Molecular Software Foundation. She also currently serves as the Board's Treasurer and Secretary. She has a background in computational chemistry. During her postdoc years, she developed a passion for open science and research infrastructure. She is particularly interested in collaboration and coordination of efforts, and how to make the research infrastructure more robust, sustainable and accessible. Karmen was the project manager for the [Open Force Field Initiative](http://openforcefield.org/) before stepping into the role of OMSF Executive Director.
-
-{{% /image %}}
-
-{{% image %}}
-![Michael K. Gilson](/images/michaelkgilson.jpg)
-**Michael K. Gilson**
-*Director*
-[Twitter](http://twitter.com/michaelkgilson) | [LinkedIn](http://linkedin.com/in/mkgilson) | [Web](http://gilson.cloud.ucsd.edu/)
-_University of California, San Diego_
-
-Mike Gilson, MD, PhD, is Professor and Chair in Computer-Aided Drug Design at the [Skaggs School of Pharmacy and Pharmaceutical Sciences](https://pharmacy.ucsd.edu/) and co-director of the [Center for Drug Discovery Innovation](http://drugdiscovery.ucsd.edu/) at the [University of California San Diego](https://ucsd.edu/). He is also a member of the Executive Committee of the [UC Drug Discovery Consortium](https://www.ucdrugdiscovery.org/). A central theme of his research groups is advancing the technologies of computer-aided drug design (CADD), including protein-ligand binding thermodynamics, and force field development and validation. Mike has a long history of contributing to molecular sciences and following open science principles, including founding [BindingDB](http://www.bindingdb.org/bind/index.jsp), co-directing [Drug Design Data Resource](https://drugdesigndata.org/) (D3R), and by holding community-wide, blinded prediction challenges. Mike is also one of the PIs leading the [Open Force Field Initiative](http://openforcefield.org/) and serves on editorial boards of several journals.
 {{% /image %}}
