@@ -79,3 +79,76 @@ The base annual salary range for these roles is expected to be between $110,000-
 **How to Apply**
 
 If thinking about how to make software better and developers’ life easier is your jam, we encourage you to apply by filling out this [**form**](https://forms.gle/3uu7bmkeaWPD8txz8). Please specify in the form your preference for either role, or if you want to be considered for both. Contact careers@omsf.io for any additional queries about the roles, grant and organization.
+
+
+{{% h2 %}}
+## Assistant Project Manager
+{{% /h2 %}}
+
+**Job Description**
+
+The [**Rosetta Commons**](www.rosettacommons.org) under the Open Molecular Software Foundation (OMSF) is looking for an Assistant Project Manager who will grow and support our community in the molecular sciences. The Assistant Project Manager’s duties will center around managing, designing and improving aspects of communication inside and outside of our organization. This position will also provide administrative support, manage a student training program, and assist in event planning. 
+
+**Administrative**
+
+- Provide comprehensive administrative and project support to the Director of Rosetta Commons and the Rosetta Commons Director of Operations. 
+- Develop and recommend administrative processes/procedures to assure efficiency in general organizational operations. Interpret and communicate operating policies.
+- Assist with planning special events and functions, including workshops, and conferences. Coordinate preparation, set up, purchases, and logistics for these events/functions.
+- Assist in coordinating travel accommodations for conference and workshop attendees. 
+- Prepare meeting materials (e.g., draft agenda, collect relevant information) and staff high-level meetings. Record and draft minutes. Monitor and follow up on action items.
+- Collaborate with financial staff at the Open Molecular Software Foundation, University of Washington, and Johns Hopkins University to create and pay invoices, manage purchasing cards, reconcile travel expenses, manage internship expenditures, and transfer funds. 
+Other duties and projects as assigned.
+
+**Communications**
+
+- Develop communication strategies for efficient information gathering and exchange within Rosetta Commons (internally) and other communities in molecular sciences.
+- Keep track of general Rosetta Commons activities and proactively share information of interest with targeted audiences (teams, users, sponsors, general community). 
+- Maintain our website to host different content and resources of interest for our community and continuously improve user experience.
+- Create and curate content for newsletters, blog posts, how-to guides, etc. with an aim to create a valuable resource collection for projects in our ecosystem.
+- Manage social media channels, websites, create/share content, boost posts and engage with the social media users as appropriate.
+- Run reports on engagement metrics on websites, social media and forums to improve our communication strategy based on observed metrics.
+- Manage a Customer Relationship Management (CRM) system.
+- Develop recruitment marketing material. 
+- Reach out to sponsors/potential sponsors, collect feedback on tools and what features are most important to support.
+- Coordinating multi-faceted team towards landing new feature releases and project deadlines. 
+
+**Special Knowledge, Skills, & Abilities**
+
+- Demonstrate ability to work independently and as part of a team.
+- Excellent organizational skills, analytical and problem-solving abilities, and attention to detail.
+- Ability to work for long periods of time without direction, prioritize own work, and work with flexibility on several tasks simultaneously in order to meet various concurrent deadlines.
+- Excellent computer literacy skills (Excel, Word, PowerPoint, One Drive, Google Drive, WordPress) and ability to learn new software.
+- Excellent written and verbal communication skills, including impeccable email communication skills that display a customer focused, problem solving attitude.
+- Ability to work in a dynamic, fast-paced environment and be flexible to changing priorities.
+- Applicants for this position may be required to complete skills assessments appropriate to the position description.
+- Knowledge and ability to use external resources to resolve issues prior to involving leadership. 
+- Strong ability to multitask.
+
+**Minimum Qualifications**
+
+- High School Diploma or graduation equivalent.
+- Three years progressively responsible administrative experience.
+- One year of corporate/academic social media management experience. 
+- Experience with event planning.
+- Availabability to travel occasionally. 
+
+**Preferred Qualifications**
+
+- Associate’s or Bachelor’s degree.
+- Two years of customer service experience including problem solving for customers. 
+- Experience using Customer Relationship Management systems.
+- Experience writing and sending marketing email blasts.
+- Experience with website design and maintenance.
+- Experience with Github. 
+
+Classified Title: Asst. Project Manager
+Starting Salary Range: $49,000 - $63,000 (Commensurate with experience) 
+Employee group: Full Time 
+Schedule: M-F/37.5 
+Location: Online/Work from Home
+Benefits: Health, eye, and dental insurance. Retirement plan. Sick/safe leave and vacation days. 
+
+**How to apply**
+
+Please apply by filling out this [**form**](https://forms.gle/Bkqd3zRt42ZL65yh7). Contact julia.koehler.leman@omsf.io for any additional queries about the role and organization.
+
