@@ -141,12 +141,12 @@ Other duties and projects as assigned.
 - Experience with website design and maintenance.
 - Experience with Github. 
 
-Classified Title: Asst. Project Manager
-Starting Salary Range: $49,000 - $63,000 (Commensurate with experience) 
-Employee group: Full Time 
-Schedule: M-F/37.5 
-Location: Online/Work from Home
-Benefits: Health, eye, and dental insurance. Retirement plan. Sick/safe leave and vacation days. 
+Classified Title: Asst. Project Manager\
+Starting Salary Range: $49,000 - $63,000 (Commensurate with experience)\
+Employee group: Full Time\
+Schedule: M-F/37.5\
+Location: Online/Work from Home\
+Benefits: Health, eye, and dental insurance. Retirement plan. Sick/safe leave and vacation days\ 
 
 **How to apply**
 
