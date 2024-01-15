@@ -24,7 +24,7 @@ We are always looking for enthusiastic candidates to contribute to open source p
 
 
 {{% h2 %}}
-## POSE: Research Software Engineer & Tech Lead
+## POSE: Research Software Engineer & Tech Lead - Applications are now closed
 {{% /h2 %}}
 
 **Job Description**
@@ -78,7 +78,7 @@ The base annual salary range for these roles is expected to be between $110,000-
 
 **How to Apply**
 
-If thinking about how to make software better and developers’ life easier is your jam, we encourage you to apply by filling out this [**form**](https://forms.gle/3uu7bmkeaWPD8txz8). Please specify in the form your preference for either role, or if you want to be considered for both. Contact careers@omsf.io for any additional queries about the roles, grant and organization.
+If thinking about how to make software better and developers’ life easier is your jam, we encourage you to apply by filling out this form. Please specify in the form your preference for either role, or if you want to be considered for both. Contact careers@omsf.io for any additional queries about the roles, grant and organization.
 
 
 {{% h2 %}}
