@@ -1,0 +1,21 @@
+<svg viewBox="0 0 147 125" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M62 90H7.5" stroke="black" stroke-width="2"/>
+<path d="M85 90H139.5" stroke="black" stroke-width="2"/>
+<path d="M64.5 97L41 121" stroke="black" stroke-width="2"/>
+<path d="M77 93L106 121" stroke="black" stroke-width="2"/>
+<path d="M64 81L35 58" stroke="black" stroke-width="2"/>
+<path d="M83 81L112 58" stroke="black" stroke-width="2"/>
+<path d="M73 81V39" stroke="black" stroke-width="2"/>
+<path d="M68 75L41 10" stroke="black" stroke-width="2"/>
+<path d="M79 75L106 10" stroke="black" stroke-width="2"/>
+<circle cx="6.5" cy="89.5" r="6.5" fill="black"/>
+<circle cx="6.5" cy="6.5" r="6.5" transform="matrix(-1 0 0 1 147 83)" fill="black"/>
+<circle cx="40.5" cy="121.5" r="3.5" fill="black"/>
+<circle cx="3.5" cy="3.5" r="3.5" transform="matrix(-1 0 0 1 110 118)" fill="black"/>
+<circle cx="33.5" cy="57.5" r="3.5" fill="black"/>
+<circle cx="3.5" cy="3.5" r="3.5" transform="matrix(-1 0 0 1 115 54)" fill="black"/>
+<circle cx="3.5" cy="3.5" r="3.5" transform="matrix(-1 0 0 1 76 35)" fill="black"/>
+<circle cx="39.5" cy="6.5" r="6.5" fill="black"/>
+<circle cx="6.5" cy="6.5" r="6.5" transform="matrix(-1 0 0 1 114 1)" fill="black"/>
+<circle cx="72" cy="86" r="14" fill="black"/>
+</svg>
