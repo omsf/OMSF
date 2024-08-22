@@ -1,22 +1,15 @@
-
-
-
+{{ define "main" }}
 <article>
-    <h1>{{ .Title }}</h1>
-        {{ if .Params.image  }}
-            <figure>
-            <img src="{{ .Params.image }}">
-            </figure>
-        {{ end }}
-        
+
      {{ $reAltIn := "<p><img src=\"([^\"]+)\" alt=\"([^\"]+)\" /></p>" }}
      {{ $reAltOut := "<figure><img src=\"$1\" alt=\"$2\"><figcaption>$2</figcaption></figure>" }}
      {{ $altContent := .Content | replaceRE $reAltIn $reAltOut | safeHTML }}
 
      {{ $reAltTitleIn := "<p><img src=\"([^\"]+)\" alt=\"([^\"]+)\" title=\"([^\"]+)\" /></p>" }}
-     {{ $reAltTitleOut := "<figure><img src=\"$1\" alt=\"$2\" class=\"$3\"><figcaption>$2</figcaption></figure>" }}
+     {{ $reAltTitleOut := "<figure><img src=\"$1\" alt=\"$2\" title=\"$3\"><figcaption>$2</figcaption></figure>" }}
      {{ $finalContent := $altContent | replaceRE $reAltTitleIn $reAltTitleOut | safeHTML }}
 
      {{ $finalContent }}
-
+     
 </article>
+{{ end }}

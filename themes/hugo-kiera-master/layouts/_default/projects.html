@@ -1,0 +1,27 @@
+{{ define "main" }}
+<div class="grid-page">
+    <h1>{{ .Title }}</h1>
+    <div class="gridflex">
+    {{ range .Pages.ByTitle }}       
+        <div class="grid-item">
+            <h2>{{ .Title }}     </h2>
+        
+            <p>{{ .Params.intro }} 
+                {{ if .Params.more }}
+                <a href="{{ .RelPermalink }}"><img class="read-more" src="/images/readmore.svg"></a>
+                {{ end }}
+            </p>
+            {{ if .Params.ofe }}<span class="pro ofe">■■</span>{{ end }}
+            {{ if .Params.omsf }}<span class="pro omsf">■■</span>{{ end }}
+            {{ if .Params.or }}<span class="pro or">■■</span>{{ end }}
+            {{ if .Params.off }}<span class="pro off">■■</span>{{ end }}
+            {{ if .Params.of }}<span class="pro of">■■</span>{{ end }}
+            {{ if .Params.bpc }}<span class="pro bpc">■■</span>{{ end }}
+            {{ if .Params.westpa }}<span class="pro westpa">■■</span>{{ end }}
+        </div>
+    {{ end }}
+    </div>
+</div>
+</main>
+{{ end }}
+

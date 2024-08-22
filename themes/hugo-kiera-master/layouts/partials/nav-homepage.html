@@ -4,9 +4,9 @@
     <ul class="main-menu__wrapper">
         {{ range .Site.Menus.main }}
         <li class="top-menu-item {{ if .HasChildren }} menu-item-has-children{{ end }}">
-            <a href="{{ if .HasChildren }}#{{ else }}{{ .URL | relLangURL }}{{ end }}" class="{{ .Identifier }} menu-link">{{ .Name }}</a>
+            <button class="button {{ .Identifier }}" onclick="maFunction('{{ .Identifier }}')">{{ .Name }}</button>
             {{ if .HasChildren }}
-            <div class="sub-menu">
+            <div style="display:none;" id="{{ .Identifier }}" class="generalclass">
                     {{ range .Children }}
                         <a href="{{ .URL | relLangURL }}" class="sub-menu-link">{{ .Name }} </a>
                     {{ end }}
@@ -18,4 +18,15 @@
 
 </nav>
 
-
+<script>
+  function maFunction(divid) {
+  var x = document.getElementById(divid);  
+  if (x.style.display === "none") 
+  {
+    x.style.display = "block";
+  } 
+  else {
+    x.style.display = "none";
+  }  
+}
+</script>

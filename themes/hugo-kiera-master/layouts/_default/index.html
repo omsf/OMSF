@@ -1,0 +1,22 @@
+{{ define "header"  }}
+    <!-- --> 
+{{ end }}
+
+{{ define "main" }}
+<section class="welcome-logo">
+     <img src="/images/welcome-logo.svg" alt="OMSF"/>
+     <h1>{{.Params.title}}</h1>
+</section>
+<section class="welcome-tagline">
+     {{ .Content }} 
+</section>
+<section class="nav">
+     {{ partial "nav-homepage" . }}
+     {{ partial "hamburger.html" . }}
+</section>
+
+{{ end }}
+
+{{ define "subnav"  }}
+    <!-- --> 
+{{ end }}

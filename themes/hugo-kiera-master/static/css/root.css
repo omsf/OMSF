@@ -1,0 +1,67 @@
+:root {
+    --color-body: black;
+    --color-fond: #f6f6f6;
+    --color-fond-dark: #FAF9F5;
+    --color-une: #b5f2e1; /* avant : #9be5d7*/
+    --color-une-dark: #62978D;
+    --color-une-fade: #EBFAF7 ; /* pour le bandeau gauche  -- avant : */
+    --color-deux: var(--color-une);
+    --color-deux-fade: #e4fff6; /* pour le sub-wrapper -- avant : #D5FFF5 */
+    --color-deux-dark: var(--color-une-dark);
+    --color-trois: #ffffbbef;
+    /* --color-deux: #ea96a9;
+    --color-deux-fade: rgba(234, 150, 169, 0.15);
+    --color-deux-dark: #7F565F; */
+
+    --color-ofe: #C4CCD0;
+    --color-omsf: var(--color-une);
+    --color-or: #FFB174;
+    --color-off: #5AA2C7; 
+    --color-of: #ea96a9;
+    --color-bpc: #DFF196;
+    --color-westpa: #ABA6DF;
+  
+    --font-titre: "Barlow", sans-serif;
+    --font-texte: "Barlow", monospace;
+  
+    --font-size: 22px;
+    --line-height: 1.4;
+  }
+  @font-face {
+    font-family: "Barlow";
+    src: url("../fonts/Barlow-Regular.ttf") format("opentype");
+    font-style: normal;
+    font-weight: 400;
+  }
+  @font-face {
+    font-family: "Barlow";
+    src: url("../fonts/Barlow-Italic.ttf") format("opentype");
+    font-style: italic;
+    font-weight: 400;
+  }
+  @font-face {
+    font-family: "Barlow";
+    src: url("../fonts/Barlow-SemiBold.ttf") format("opentype");
+    font-style: normal;
+    font-weight: 600;
+  }
+  @font-face {
+    font-family: "Barlow";
+    src: url("../fonts/Barlow-SemiBoldItalic.ttf") format("opentype");
+    font-style: italic;
+    font-weight: 600;
+  }
+ /* 
+  Sligoil by Ariel Martín Pérez. Distributed by velvetyne.fr.
+@font-face {
+    font-family: "Sligoil";
+    src: url("../fonts/Sligoil-Micro.otf") format("opentype");
+    font-style: normal;
+    font-weight: 400;
+  }
+  @font-face {
+    font-family: "Fira Code";
+    src: url("../fonts/FiraCode-VariableFont_wght.ttf") format("opentype");
+    font-style: normal;
+    font-weight: 300 - 700;
+  }*/

@@ -1,6 +1,32 @@
-{{ partial "header" . }}
+<!doctype html>
 
-{{ block "main" . }}
-{{ end }}
+<html lang="{{ .Site.LanguageCode | default "en" }}">
 
-{{ partialCached "footer" . }}
+    <head>
+        <title>OMSF — {{ .Page.Title }}</title>
+        {{ partial "meta" . }}
+        {{ partialCached "header_includes" . -}}
+    </head>
+
+    <body class="{{block "bodyClass" .}} {{ end }} {{ if .Params.class }} {{ .Params.class }} {{ end }} {{ .Page.Section }}">
+
+        <div id="container">
+
+            {{ block "header" . }}
+                <header>
+                    <a class="logo" href="/">
+                        <img src="/images/logo-black.svg" alt="OMSF"/></a>
+                    {{ partial "nav" . }}
+                    {{ partial "hamburger.html" . }}
+                </header>
+            {{ end }}
+            
+            <main>
+
+                {{ block "main" . }}{{ end }}
+
+                {{ block "subnav" . }}
+                    <!-- {{ partial "subnav.html" . }} -->
+                {{ end }}
+
+                {{ partialCached "footer" . }}

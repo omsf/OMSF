@@ -1,123 +1,34 @@
 ---
-title: Mission
+title: "At the Open Molecular Software Foundation, we believe in the power of open science as a catalyst for accelerated innovation."
 menu: "about"
-name: "mission"
-weight: 1
+name: "About"
+layout: about
+weight: 10
 ---
 
-{{% h2 %}}
-## What we do?
-{{% /h2 %}}
+![OMSF-missions](/images/mission-1.svg)
 
-![image alt text](/images/OMF-img1.jpg)
+## Our mission
+* Advance of the molecular sciences through the development of high-quality, open-source software. 
+* Foster the growth of sustainable communities dedicated to research software development. 
+* Bridge industry and academia to facilitate collaboration, building a hub of experts in molecular sciences.
 
-Our mission is to advance molecular sciences by building high quality, open source software and sustainable communities for research software development.
-We believe that open source software and open science provide the best path to accelerated discoveries and innovation. However, openness and research software development come with their own challenges. It is our mission to make using and building open research infrastructure the best and easiest choice for every molecular scientist.
+We stand for the creation, iteration, and proliferation of high quality open molecular software. Welcome!
 
+**Accelerate scientific, technical, and commercial progress** through rapid dissemination of knowledge and research tools in computational molecular sciences, following open science principles.
 
-{{% h2 %}}
-## What we offer
-{{% /h2 %}}
+**Improve modeling accuracy, quality and the overall user** experience through more rigorous and sustainable research software development practices and continuous method validation.
 
-We focus on working with hosted projects to support their software development and provide operational support, while also pursuing our own community-service and community-building projects to the extent that our funding allows.
+**Improve sustainability and reduce software development costs** across industry and academia by pooling resources, eliminating duplication of efforts, sharing know-how and allowing reuse of software components through open licenses.
 
-{{% h3-green %}}
-We work with hosted projects to support their software development as they:
-{{% /h3-green %}}
-* Carry out full life cycle product development
-* Convert concepts into mature and robust software
-* Collaborate with academic and industry researchers
-* Seek to fund targeted development, documentation, and quality assurance
-* Develop professional user support and training
+**Remove or reduce barriers to collaboration** between industry and academia by providing a clear legal and organizational framework, while making all collaboration materials and results available to the general public.
 
-{{% h3-green %}}
-We provide operational support for Hosted Projects:
-{{% /h3-green %}}
-* Fast and responsive administrative and operational support
-* Services to support software developers and users
-* Fundraising assistance
-* Project management support
-* Assistance with the design and operations of project governance.
-* Vetted agreement templates with industry funders
-* International employment
+**Create a hub of experts in molecular sciences** committed to improving research software development and application practices by connecting all interested stakeholders -- researchers, developers and funders -- and providing organizational support
 
-{{% h3-green %}}
-In-house, we work to build community:
-{{% /h3-green %}}
-* Build a network of ideas, people and funding in open source communities
-* Drive early adoption toward mainstream usage.
-* Foster collaboration between projects with common interests
-* Facilitate development of standards for interoperability
-* Create new career roles and opportunities
-* Explore funding options and business models
-* Grow strategic partnerships and relationships
+Our unique position allows us to put your project at the intersection of academia and industry, giving you the best of both. Our lean approach allows you to maximize your project’s impact while building from a community of respect and inclusion. Take a look at our current programs - we are proud of their continued success!
 
-Visit our [Services page](/services/fiscal-sponsorship) for more information about how the OMSF can support you and your project.
+As a fiscal sponsor, we provide necessary operational support. As a community, we host a vibrant ecosystem. We strive to be a place where research software engineers, students, and industry professionals can have their work recognized and voices heard. To see our latest progress, head over to our community page.
 
+Since 2021, OMSF has been a proud sponsor of open source software and open science. If you’d like, head over to our resources repository for more information. Feel free to contact us at [info@omsf.io](mailto:info@omsf.io). 
 
-{{% h2 %}}
-## How it works
-{{% /h2 %}}
-
-The OMSF is a nonprofit organization holding 501(c)(3) tax exempt status. The organization pursues its mission by focusing on two key areas:
-
-![image alt text](/images/OMF-img2.jpg)
-
-#### 1.	Fiscal sponsorship
-The OMSF seeks in large part to provide a home and base of operations for open source software projects through [fiscal sponsorship](https://en.wikipedia.org/wiki/Fiscal_sponsorship). We recognize the need to simplify administration and project management for distributed teams and research software development. It is important to emphasize that each Hosted Project has its own governance structure and all important decisions are made accordingly, including how to spend funds. The role of the OMSF is to follow the instructions received from the governing body of the Hosted Project and in accordance with our mission and charitable purpose. Read more about our fiscal sponsorship [services](/services/fiscal-sponsorship) and how to become a [Hosted Project](/projects/host-project).  
-
-#### 2.	Community oriented programs
-This organization allows us to combine different funding sources -- membership fees, grants, small donations and others -- to support our employees and different programs ultimately directed at advancing molecular sciences through research software development and communities. We intend to actively apply for funding to support activities and create resources relevant to our Hosted Projects and wider community in molecular sciences.
-
-{{% h2 %}}
-## Governance
-{{% /h2 %}}
-
-The OMSF operates as a lean organization with the minimal number of employees to be effective, while keeping our costs down. We will regularly update our [Documents](/about/legal) page with all relevant organization documents and annual reports.
-
-![image alt text](/images/OMF-img3.jpg)
-
-
-#### The OMSF Board of Directors
-
-The main responsibilities of the Board include:
-
-* Ensuring that all activities are aligned with the mission;
-* Strategic planning and decision making in the best interest of OMSF and its associated stakeholders.
-
-The organization members have voting rights to elect the Board of Directors, as described in our [Bylaws](/bylaws). There can be a maximum of seven Directors serving on the Board -- four “internal” Directors representing Hosted Projects and three “external” Directors with relevant experience and expertise to help to advance the best interests of the organization and all its members.
-
-#### Team
-OMSF’s personnel runs the operations and implements strategy envisioned by the Board of Directors, and supports Hosted Projects.
-
-
-#### Hosted Projects
-Each Hosted Project is expected to have their own governance model, and their Governing Board is responsible for running the Hosted Project and communicating with OMSF. Supporting Members of Hosted Projects automatically become OMSF members and receive voting rights. In addition to Supporting Members and project staff, each Hosted Project may maintain a network of external collaborators and contributors.
-
-
-{{% h2 %}}
-## What drives us
-{{% /h2 %}}
-
-##### Cost-effectiveness:
-Offering the best support for every dollar of funding each of these projects receive.
-
-
-##### Sustainability:
-Providing longevity and maintenance mechanisms for key software components in the field.
-
-
-##### Interoperability:
-Building processes to identify and fill the infrastructure gaps between the open source projects in the ecosystem.
-
-
-##### People:
-Offering new career opportunities to scientists working at the interface of software development and research.
-
-
-##### Collaboration:
-Establishing collaboration between industry, academia and open source projects
-
-
-##### Community:
-Contributing to best practices in software development and application in molecular sciences.
+Welcome to OMSF!
