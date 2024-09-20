@@ -11,6 +11,8 @@ part: 20
 
 ### OMSF Symposium 2024: Keynotes and Pictures
 
-Two months ago, we hosted the OMSF Symposium 2024 in Leiden. It was fantastic to see our community gathered under one roof - an unforgettable experience!
+In May 2024, we hosted the 2nd OMSF Symposium in Leiden. It was fantastic to see our community gathered under one roof - an unforgettable experience!
 
-If you missed the event this year or want to revisit it, we now have photos and videos available! The symposium featured a blend of keynote presentations, partner presentations, engaging panel discussions, and hands-on project demos from leading initiatives like Open Force Field, Open Free Energy, and OpenFold.
+If you missed the event this year or want to revisit it, we now have photos and videos available! The symposium featured a blend of keynote presentations, partner presentations, engaging panel discussions, and hands-on project demos from leading initiatives like Open Force Field, Open Free Energy, and OpenFold. Watch now of [Youtube](https://www.youtube.com/playlist?list=PLtL407KMUtj7eUwSTO8keuudtzgTVtQ12).
+
+
