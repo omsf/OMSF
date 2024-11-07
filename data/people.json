@@ -1,217 +1,6 @@
+
 {
-  "staff": {
-    "cardWidth": "full",
-    "title": "Staff",
-    "folks": [
-      {
-        "portrait": "",
-        "name": "Irfan Alibay",
-        "fonction": "Scientific Lead", 
-        "project": "Open Free Energy",
-        "ofe": "■■",
-        "description": "",
-        "social": "",
-        "id": "alibay"
-
-      },
-      {
-        "portrait": "",
-        "name": "Zachary Baker",
-        "fonction": "Community Manager",
-        "project": "OMSF",
-        "omsf": "■■",
-        "description": "",
-        "social": "",
-        "id": "baker"
-      },
-      {
-        "portrait": "",
-        "name": "Hannah Baumann",
-        "fonction": "Scientific Methods Developer",
-        "project": "Open Free Energy",
-        "ofe": "■■",
-        "description": "",
-        "social": "",
-        "id": "baumann"
-      },
-      {
-        "portrait": "/images/people/karmen.jpg",
-        "name": "Karmen Condic-Jurkic",
-        "fonction": "Executive Director",
-        "project": "OMSF",
-        "omsf": "■■",
-        "description": "Dr. Karmen Čondić-Jurkić is the co-founder and Executive Director of the Open Molecular Software Foundation. She also currently serves as the Board’s Treasurer and Secretary. She has a background in computational chemistry. During her postdoc years, she developed a passion for open science and research infrastructure. She is particularly interested in collaboration and coordination of efforts, and how to make the research infrastructure more robust, sustainable and accessible. Karmen was the project manager for the Open Force Field Initiative before stepping into the role of OMSF Executive Director.",
-        "social": "karmen.condic-jurkic@omsf.io",
-        "git": "karmencj",
-        "id": "condic"
-      },
-      {
-        "portrait": "",
-        "name": "James Eastwood",
-        "fonction": "Project Manager",
-        "project": "Open Force Field | Open Free Energy",
-        "off": "■■",
-        "ofe": "■■",
-        "description": "",
-        "social": "",
-        "id": "eastwood"
-      },
-      {
-        "portrait": "",
-        "name": "Richard Gowers",
-        "fonction": "Project Director",
-        "project": "Open Free Energy",
-        "ofe": "■■",
-        "description": "",
-        "social": "",
-        "id": "gowers"
-      },
-      {
-        "portrait": "",
-        "name": "Mike Henry",
-        "fonction": "Infrastructure Specialist",
-        "project": "Open Free Energy",
-        "ofe": "■■",
-        "description": "",
-        "social": "",
-        "id": "henry"
-      },
-      {
-        "portrait": "",
-        "name": "Ethan Holz",
-        "fonction": "Software Engineer",
-        "project": "OMSF",
-        "omsf": "■■",
-        "description": "",
-        "social": "",
-        "id": "holz"
-      },
-      {
-        "portrait": "",
-        "name": "Julia Koehler-Leman",
-        "fonction": "Project Director",
-        "project": "Open Rosetta",
-        "or": "■■",
-        "description": "",
-        "social": "",
-        "id": "koehler"
-      },
-      {
-        "portrait": "",
-        "name": "Alexandra McIssac",
-        "fonction": "Staff Scientist",
-        "project": "Open Force Field",
-        "off": "■■",
-        "description": "",
-        "social": "",
-        "id": "mcisssac"
-      },
-      {
-        "portrait": "",
-        "name": "Benjamin Ries",
-        "fonction": "Scientific Methods Developer",
-        "project": "Open Free Energy",
-        "ofe": "■■",
-        "description": "",
-        "social": "",
-        "id": "ries"
-      },
-      {
-        "portrait": "",
-        "name": "David Swenson",
-        "fonction": "Senior Software Enginner",
-        "project": "OMSF",
-         "omsf": "■■",
-        "description": "",
-        "social": "",
-        "id": "swenson"
-      },
-      {
-        "portrait": "",
-        "name": "Matt Thompson",
-        "fonction": "Software Scientist",
-        "project": "Open Force Field",
-        "off": "■■",
-        "description": "",
-        "social": "",
-        "id": "thompson"
-      },
-      {
-        "portrait": "",
-        "name": "Jeffery Wagner",
-        "fonction": "Technical Lead",
-        "project": "Open Force Field",
-        "off": "■■",
-        "description": "",
-        "social": "",
-        "id": "wagner"
-      },
-      {
-        "portrait": "",
-        "name": "Lily Wang",
-        "fonction": "Scientific Lead",
-        "project": "Open Force Field",
-        "off": "■■",
-        "description": "",
-        "social": "",
-        "id": "wang"
-      },
-      {
-        "portrait": "",
-        "name": "Jennifer Wei",
-        "fonction": "Senior Software Developer",
-        "project": "OpenFold",
-        "of": "■■",
-        "description": "",
-        "social": "",
-        "id": "wei"
-      },
-      {
-        "portrait": "",
-        "name": "Brent Westbrook",
-        "fonction": "Staff Scientist",
-        "project": "Open Force Field",
-        "off": "■■",
-        "description": "",
-        "social": "",
-        "id": "westbrook"
-      },
-      {
-        "portrait": "",
-        "name": "Marcus Wielder",
-        "fonction": "Staff Scientist",
-        "project": "Open Force Field",
-        "off": "■■",
-        "description": "",
-        "social": "",
-        "id": "wielder"
-      }
-    ]
-  },
-  "contributors": {
-    "cardWidth": "full",
-    "title": "Contributors",
-    "folks": [
-      {
-        "portrait": "",
-        "name": "Chapin Cavander",
-        "fonction": "Staff Scientist",
-        "description": "",
-        "social": "",
-        "id": "cavander"
-      },
-      {
-        "portrait": "",
-        "name": "Meghan Osato",
-        "fonction": "PhD Candidate, Univeristy of California, Irvine",
-        "description": "",
-        "social": "",
-        "id": "osato"
-      }
-
-    ]
-  },
-  "board": {
+    "board": {
       "cardWidth": "full",
       "title": "Board of Directors",
       "folks": [
@@ -230,8 +19,7 @@
           "description": "Dr. Karmen Čondić-Jurkić is the co-founder and Executive Director of the Open Molecular Software Foundation. She also currently serves as the Board's Treasurer and Secretary. She has a background in computational chemistry. During her postdoc years, she developed a passion for open science and research infrastructure. She is particularly interested in collaboration and coordination of efforts, and how to make the research infrastructure more robust, sustainable and accessible. Karmen was the project manager for the [Open Force Field Initiative](http://openforcefield.org/) before stepping into the role of OMSF Executive Director.",
           "social": "[Twitter](http://twitter.com/karmecon) | [LinkedIn](http://linkedin.com/in/karmen-condic-jurkic-805073b) | _Open Molecular Software Foundation_",
           "id": "jurkic"
-      },
-        {
+           {
             "portrait": "/images/people/Jeffrey-Gray.jpg",
             "name": "Jeffrey J. Gray",
             "fonction": "Director",
@@ -255,6 +43,63 @@
           "social": "[Linkedin](https://www.linkedin.com/in/brian-weitzner) | [Web](https://weitzner.org/) | _Outpace Bio_",
           "id": "weitzner"
         }
-      ]
-    }
+      },
+  "staff": {
+    "cardWidth": "full",
+    "title": "Core Staff",
+    "folks": [
+
+      {
+        "portrait": "",
+        "name": "Zachary Baker",
+        "fonction": "Community Manager",
+        "project": "OMSF",
+        "omsf": "■■",
+        "description": "",
+        "social": "",
+        "id": "baker"
+      },
+      {
+        "portrait": "/images/people/karmen.jpg",
+        "name": "Karmen Condic-Jurkic",
+        "fonction": "Executive Director",
+        "project": "OMSF",
+        "omsf": "■■",
+        "description": "Dr. Karmen Čondić-Jurkić is the co-founder and Executive Director of the Open Molecular Software Foundation. She also currently serves as the Board’s Treasurer and Secretary. She has a background in computational chemistry. During her postdoc years, she developed a passion for open science and research infrastructure. She is particularly interested in collaboration and coordination of efforts, and how to make the research infrastructure more robust, sustainable and accessible. Karmen was the project manager for the Open Force Field Initiative before stepping into the role of OMSF Executive Director.",
+        "social": "karmen.condic-jurkic@omsf.io",
+        "git": "karmencj",
+        "id": "condic"
+      },
+      {
+        "portrait": "",
+        "name": "Ethan Holz",
+        "fonction": "Software Engineer",
+        "project": "OMSF",
+        "omsf": "■■",
+        "description": "",
+        "social": "",
+        "id": "holz"
+      },
+      {
+        "portrait": "",
+        "name": "Julia Koehler-Leman",
+        "fonction": "Project Director",
+        "project": "Open Rosetta",
+        "or": "■■",
+        "description": "",
+        "social": "",
+        "id": "koehler"
+      },
+      {
+        "portrait": "",
+        "name": "David W. Swenson",
+        "fonction": "Senior Software Enginner",
+        "project": "OMSF",
+         "omsf": "■■",
+        "description": "",
+        "social": "",
+        "id": "swenson"
+      },
+    ]
+  },
 }
