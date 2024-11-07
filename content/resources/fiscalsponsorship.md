@@ -6,8 +6,6 @@ class: "resources"
 
 ![Fiscal-sponsorship](/images/Fiscal-sponsor.svg)
 
-The Open Molecular Software Foundation uses fiscal sponsorship as a business model available to nonprofit organizations to assemble the resources, provide support and advance open source projects in molecular sciences aligned with our charitable purpose and general public interest.
-
 What is fiscal sponsorship? Simply put, fiscal sponsorship allows extension of our tax-exempt status to sponsored projects, provided that these projects further our mission. The sponsor organization (OMSF) accepts tax deductible contributions and grants on behalf of the sponsored project. OMSF works to ensure that all funds are used in line with its charitable purposes and any additional funder restrictions. The relationship between the sponsored projects and OMSF will be defined in a written agreement, specifying obligations and responsibilities for both parties. If you would like to know more about fiscal sponsorship, we recommend the book [_Fiscal Sponsorship: 6 Ways To Do It Right_](https://fiscalsponsordirectory.org/?product=fiscal-sponsorship-6-ways-to-do-it-right-3rd-edition) by Gregory Colvin and Stephanie Petit.
 
 As the book title suggests, there are [six models of fiscal sponsorship](https://fiscalsponsorship.com/the-models-summary/) with varying levels of financial independence for sponsored projects with respect to the sponsoring organization. We are planning to develop support and capabilities to support several models over time. Please reach out to [info@omsf.io](mailto:info@omsf.io) if you think OMSF could assist your project and your organization as a fiscal sponsor.
