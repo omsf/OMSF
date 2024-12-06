@@ -1,0 +1,13 @@
+<div class="sub-wrapper">
+    {{ $currentPage := . }}
+    {{ range .Site.Menus.main }}
+    {{ if not (eq $currentPage.Section .Identifier) }}
+        <div class="{{ .Identifier }}">
+            <a href="{{ .URL }}">
+                {{ .Name }}
+                <img class="read-more" src="/images/readmore.svg">
+            </a>
+        </div>	
+    {{ end }}
+    {{ end }}
+</div>

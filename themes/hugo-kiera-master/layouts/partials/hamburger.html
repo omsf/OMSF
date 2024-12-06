@@ -1,14 +1,25 @@
 <button onclick="myFunction()" id="toggle-main-menu-mobile" class="hamburger hamburger--slider" type="button">
   <span class="hamburger-box">
     <span class="hamburger-inner"></span>
-  </span>
+  </span> 
 </button>
 
 <div id="mobile-submenu" style="display:none;" class="mobile-submenu">
 	{{ $currentPage := . }}
-	        {{ range .Site.Menus.main }}
-	<a class="{{if or (eq $currentPage.Section .Identifier) ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .)}} active{{end}}" href="{{ .URL }}">{{ .Name }}</a>
-	        {{ end }}
+	{{ range .Site.Menus.main }}
+  <ul>
+    <li class="{{ if .HasChildren }} menu-item-has-children{{ end }}">
+    <a href="{{ if .HasChildren }}#{{ else }}{{ .URL | relLangURL }}{{ end }}" class="menu-link {{if or (eq $currentPage.Section .Identifier) ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .)}} active{{end}}">{{ .Name }}</a>
+        {{ if .HasChildren }}
+            <div class="sub-menu">
+                    {{ range .Children }}
+                        <a href="{{ .URL | relLangURL }}" class="sub-menu-link">{{ .Name }} </a>
+                    {{ end }}
+            </div>
+	      {{ end }}
+      </li>
+      </ul>
+         {{ end }}
 </div>
 
 <script>

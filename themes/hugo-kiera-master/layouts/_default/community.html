@@ -1,0 +1,20 @@
+{{ define "main" }}
+<div class="grid-page">
+  
+    <section>
+          <h1>{{ .Title }}</h1>
+          {{ .Content }}
+    </section>
+    <div class="gridflex">
+        {{ range .Pages.ByParam "part" }}
+        <div class="grid-item">
+            <h2>{{ .Title }}</h2>
+            <p>{{ .Params.intro }} <a href="{{ .RelPermalink }}">
+            <img class="read-more" src="/images/readmore.svg"></a></p>
+        </div>
+        {{ end }} 
+    </div>
+</div>    
+</main>
+{{ end }}
+

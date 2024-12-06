@@ -1,0 +1,604 @@
+/* OMSF theme 2024  ========================================================================== */
+/* 
+0. Reset
+1. Base 
+    Body
+    Style de caractère
+2. Partials
+    Menu
+    Footer
+3. Pages
+    Homepage
+
+*/
+/* 0. Reset ========================================================================== */
+html {
+  line-height: 1.15; 
+  -webkit-text-size-adjust: 100%; 
+  scroll-behavior: smooth;
+  background: var(--color-background);
+}
+html * {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+main {
+  display: block;
+  min-height: 75vh;
+  z-index: 1;
+
+}
+hr {
+  box-sizing: content-box;
+  overflow: visible;
+  border: none;
+  border-top: 3px double var(--color-une-dark);
+  color: var(--color-une-dark);
+  text-align: center;
+  height: 3em;
+  margin-top: 2em;
+  width: 330px;
+}
+pre {
+  font-family: monospace, monospace;
+  font-size: 1em;
+}
+b,
+strong {
+  font-weight: 600;
+}
+abbr[title] {
+  border-bottom: none;
+  text-decoration: underline;
+  text-decoration: underline dotted;
+}
+code,
+kbd,
+samp {
+  font-family: monospace, monospace;
+  font-size: 1em;
+}
+/* Prevent `sub` and `sup` elements from affecting the line height in all browsers. */
+sub,
+sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+sub { bottom: -0.25em;}
+sup {top: -0.5em;}
+
+img {
+  border-style: none;
+}
+h1,
+h2,
+h3,
+ul {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+/* 1. BASE ========================================================================== */
+body {
+    overflow-y: scroll;
+    box-sizing: border-box;
+    /* width: 80%; */
+    padding: 0em;
+    background: var(--color-fond);
+    /* max-width: 1300px; */
+    /* margin: auto; */
+    position: relative;
+    z-index: 0;
+    font-family: var(--font-texte);
+    font-size: var(--font-size);
+    line-height: var(--line-height);
+    color: var(--color-body);
+    font-variant-ligatures: common-ligatures;
+    border-top: 10px solid var(--color-une);
+  }
+
+
+/* 1.1 STYLE DE CARACTERE ----------------------------------------*/
+h1,
+h2,
+h3 {
+    font-family: var(--font-titre);
+    font-weight: 100;
+}
+h1 {
+    font-size: 2em;
+    margin: 2em 0 1em;
+}
+.programs :is(h1, h2) {
+  word-break: break-word;
+}
+section h1:first-child,
+main h1:first-child {
+  margin-top: 0em !important;
+}
+h2 {
+    font-size: 1.7em;
+    margin: 1em 0 0.25em;
+}
+h3 {
+    font-size: 1.3em;
+    margin: 2em 0 0.25em;
+}
+h4 {
+  margin: 1em 0 0.25em;
+}
+figure + h2,
+h1 + h2 {
+  margin-top: 0px;
+}
+a {
+    font-family: var(--font-titre);
+    color: var(--color-body);
+    text-decoration: underline;
+    word-break: break-word;
+}
+a:hover,
+.people button:hover {
+    color: var(--color-deux-dark);
+}
+p {
+    margin: 0px 0px 1em ;
+    padding: 0px;
+}
+ul {
+  list-style-position: outside;
+  list-style-type: '> ';
+  margin-left: 1ch;
+}
+article ul li {
+  padding-left: 1ch;
+}
+article ul li:last-of-type {
+  margin-bottom: 1em;
+}
+/* 2. PARTIALS ========================================================*/
+
+/* MENU ----------------------------------------*/
+header {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  position: sticky;
+  top: 0px;
+  border-bottom: 2px solid gray;
+  border-top: 10px solid var(--color-une);
+  background-color: var(--color-fond);
+  padding: 1ch 2ch 0;
+  z-index: 666;
+}
+header .logo {
+  margin: 0 auto;
+  text-align: center;
+}
+header .logo img {
+  width: 80%;
+}
+header nav {
+  width: 65%;
+}
+nav ul {
+  list-style: none;
+  overflow: hidden;
+  display: flex;
+  justify-content: flex-end;
+}
+nav ul li {
+  /* float: left; */
+  text-align: right;
+  margin-left: 5%;
+}
+nav ul li a {
+  text-decoration: none;
+  font-size: 0.9em;
+}
+nav ul li:hover {
+  background-color: var(--color-une-fade);
+}
+nav .menu-item-has-children .menu-link {
+  display: inline-block;
+}
+li.menu-item-has-children:not(.mobile-submenu li) {
+  display: inline-block;
+}
+li.menu-item-has-children a.menu-link::after{
+  content: "\0023F7";
+  padding-left: 15px;
+  color: var(--color-une-dark);
+}
+.sub-menu {
+  display: none;
+  position: absolute;
+  background-color: var(--color-fond-dark);
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  border-top: 4px solid var(--color-une);
+}
+.sub-menu a {
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+  border-bottom: 1px solid grey;
+  word-break: keep-all;
+}
+.menu-item-has-children:hover .sub-menu {
+  display: block;
+}
+.hamburger--slider, #toggle-main-menu-mobile {
+	opacity: 0;
+}
+/* GRILLE ARTICLE AVEC IMAGES A GAUCHE -------------------------------------------- */
+figcaption {
+  display: none;
+}
+main article  {
+  display: grid;
+  grid-template-columns: 2em [image-start] 1fr [image-end text-start] 2fr [text-end] 2em;
+  grid-column: art / text;
+  grid-row: rest;
+  background: linear-gradient(90deg, var(--color-une-fade) 34%, var(--color-fond) 0%);
+  padding-bottom: 4em;
+  padding-top: 2em;
+  min-height: 75vh;
+  align-content: flex-start;
+}
+main article > * {
+  grid-column: text;
+  max-width: unset !important;
+  padding-left: 70px;
+}
+main article figure  {
+  grid-column: image !important;
+  grid-row: 1 / span 5;
+  position: sticky;
+  top: 200px;
+  padding: 0px 25px 0px 0px;
+  margin: 0 auto;
+  text-align: center;
+}
+.about main article figure {
+  grid-row: 1 / span 7;
+}
+main article figure img {
+  max-width: 90%;
+}
+
+/* SUB-navigation ----------------------------------------*/
+.sub-wrapper {
+  display: flex;
+  /* background-color: var(--color-deux-fade); */
+  background-color: var(--color-trois);
+
+  padding: 1em 0;
+}
+.sub-wrapper > div {
+  width: 33%;
+  padding: 1em;
+  text-align: center;
+  align-self: end;
+  display: inline-grid;
+  row-gap: 20px;
+  border-right: 1px solid var(--color-body);
+  position: relative;
+}
+.sub-wrapper div:last-of-type {
+  border: none;
+}
+.sub-wrapper div:before {
+  display: inline-block;
+  width: 120px;
+  margin: auto;
+}
+.sub-wrapper .programs:before {
+  content: url('/images/icon-programs.svg');
+}
+.sub-wrapper .about:before {
+  content: url('/images/icon-about.svg');
+}
+.sub-wrapper .community:before {
+  content: url('/images/icon-community.svg');
+}
+.sub-wrapper .resources:before {
+  content: url('/images/icon-resources.svg');
+}
+.sub-wrapper .involved:before {
+  content: url('/images/icon-contact.svg');
+}
+.sub-wrapper a {
+  text-decoration: none;
+}
+
+/* FOOTER ----------------------------------------*/
+footer {
+	background-color: var(--color-une);
+	padding: 2em 3em;
+    display: flex;
+    font-size: 0.7em;
+}
+#logo-footer {
+	width: 300px;	
+}
+footer > div {
+    width: 50%;
+}
+footer .column-2 {
+    display: flex;
+    flex-direction: column;
+    text-align: right;
+    justify-content: end;
+}
+footer .social img {
+    width: 30px;
+    margin-bottom: 1ch;
+}
+footer .terms a {
+    padding-left: 2ch;
+}
+
+/* JOIN US -------------------------------------- */
+section.joinus {
+  background-color: var(--color-une-fade);
+  padding: 2em;
+  margin: 0px -2em -2em !important;
+}
+
+/* READ MORE -------------------------------------- */
+.read-more {
+  vertical-align: bottom;
+}
+
+/* 3. PAGES ========================================================*/
+
+/* GRID-PAGE : People, Projects, Events, Jobs ----------------------------------------*/
+.grid-page {
+  padding: 2em;
+  background: none;
+}
+.community section p {
+  max-width: 75ch;
+  margin-bottom: 2em;
+}
+.gridflex {
+  display: grid;
+  grid-template-columns: repeat(3,31%);
+  column-gap: 3%;
+  row-gap: 40px;
+}
+.staff .gridflex {
+  display: grid;
+  grid-template-columns: repeat(4,23%);
+  column-gap: 20px;
+  row-gap: 50px;
+}
+
+:is(.projects, .people) main section {
+  margin-bottom: 7em;
+  }
+.grid-item {
+  margin: 0;
+  padding: 0;
+}
+.grid-item h2:first-of-type {
+  margin: 0px !important;
+}
+.people .grid-item,
+.projects .grid-item .pro  {
+  align-self: flex-end;
+}
+.projects .grid-item {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: stretch;
+}
+/* .programs .grid-item:before,
+.programs .grid-item:after {
+  content: '';
+    position: absolute;
+    z-index: -1000;
+  top: 10px;
+  left: -5%;
+  right: -5%;
+  bottom: 20px;
+  border: solid 1px #000;
+}
+.programs .grid-item:before {
+  border-top: none;
+  border-bottom: none;
+}
+.programs .grid-item:after {
+  top: 0;
+  left: 30px;
+  right: 30px;
+  bottom: -6%;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+} */
+.people .board .grid-item:after {
+  content: "■■";
+  color: var(--color-une);
+  display: block;
+  font-size: 0.8em;
+}
+.people .grid-item figure {
+  margin: 0px;
+  }
+.people .grid-item figure img{
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 100px;
+  filter: grayscale(1);
+ }
+.projects .grid-item figure {
+margin: 0px;
+max-width: 400px;
+overflow: hidden;
+}
+.projects .grid-item figure img{
+ width: 80%;
+}
+.people p.fonction, 
+.people p.project {
+  margin-bottom: 0px;
+}
+.people button {
+  border: none;
+    background: none;
+    font-size: 0.9em;
+    padding: 0;
+    color: var(--color-une-dark);
+}
+:is(.projects, .people) .grid-item h3 {
+  margin-top: 0.5em;
+  }
+:is(.projects, .people) .grid-item p {
+  font-size: 0.8em;
+}
+.projects .grid-item p {
+  max-width: 40ch;
+}
+.programs article figure,
+.programs article figure img {
+  width: 100%;
+  margin-bottom: 1em;
+  align-self: auto;
+}
+.rosetta article figure {
+  mix-blend-mode: darken;
+}
+.programs article h1:first-of-type  {
+  display: none;
+  /* grid-column: image !important;
+  grid-row: 2;
+  position: sticky;
+  top: 130px;
+  padding: 0px;
+  margin: 0 auto; */
+}
+.git img {
+width: 20px !important;
+transform: none !important;
+position: unset !important;
+}
+
+/* People and projects ---------------------------------------- */
+.ofe { color: var(--color-ofe); }
+.omsf { color: var(--color-omsf); }
+.or { color: var(--color-or); }
+.off { color: var(--color-off); }
+.of { color: var(--color-of); }
+.bpc { color: var(--color-bpc); }
+.westpa { color: var(--color-westpa); }
+
+.pro + .pro { margin-top: -1.5em; }
+
+/* Main article figure ----------------------------------------*/
+.contact main article figure img {
+  width: 500px;
+}
+.community main article figure {
+  grid-row: 1 / span 7;
+}
+.yourproject main article figure {
+  grid-row: 1 / span 7;
+  top: 100px;
+}
+
+/* HOMEPAGE ----------------------------------------*/
+.homepage main {
+    display: grid;
+    grid-template-columns: repeat(2, 50%);
+    min-height: 85vh;
+    padding: 0px;
+    margin: 0px;
+    background: none;
+}
+section.welcome-logo {
+    grid-row: span 2;
+    background-color: var(--color-une-fade);
+    padding: 15% 10%;
+    h1 {
+        font-size: 4vw;
+        font-weight: 100;
+        margin: 0px;
+    }
+    img {
+        width: 70%;
+    }
+}
+section.welcome-tagline {
+    padding: 6% 6% 0%;
+    > * {
+        margin: 0;
+    }
+}
+.homepage nav {
+  padding: 1em 0;
+}
+.homepage nav ul {
+  display: block;
+}
+.homepage nav ul li {
+    float: none;
+    width: 100%;
+    border-bottom: 1px solid grey;
+}
+.homepage .button {
+  width: 100%;
+  border: none;
+  text-align: left;
+  background-color: var(--color-fond);
+  font-size: 1.1em;
+  display: flex;
+  align-items: center;
+}
+.homepage .top-menu-item button:hover,
+.homepage .sub-menu-link:hover {
+background-color: var(--color-une);
+}
+.homepage button:before {
+  display: inline-block;
+  width: 70px;
+  margin: 10px 40px 10px 20px;
+}
+.homepage nav .programs:before {
+  content: url('/images/icon-programs.svg');
+}
+.homepage .top-menu-item .about:before {
+  content: url('/images/icon-about.svg');
+}
+.homepage .top-menu-item .community:before {
+  content: url('/images/icon-community.svg');
+}
+.homepage .top-menu-item .resources:before {
+  content: url('/images/icon-resources.svg');
+}
+.homepage .top-menu-item .involved:before {
+  content: url('/images/icon-contact.svg');
+}
+.generalclass {
+  position: relative;
+  font-size: 0.9em;
+}
+.homepage .generalclass a {
+  padding: 12px 0px 12px 135px;
+  display: block;
+  text-align: left;
+  border-bottom: 1px solid grey;
+}
+.homepage .top-menu-item .generalclass a:last-of-type,
+.homepage .main-menu__wrapper li:last-of-type {
+  border-bottom: none;
+}

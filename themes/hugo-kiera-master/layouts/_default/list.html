@@ -1,31 +1,19 @@
 {{ define "main" }}
-
-<section id="list">
-
-    {{ if eq .Data.Singular "tag" }}
-        <h2>#{{ .Title | lower }}</h2>
-    {{ else }}
-        <h2>{{ .Title }}</h2>
-    {{ end }}
-
-    {{ .Content }}
-
-    {{ range (.Paginate (.Data.Pages.GroupByDate "2006")).PageGroups  }}
-
-    <h3>{{ .Key }}</h3>
+  <main>
+    <article>
+      <header>
+        <h1>{{ .Title }}</h1>
+      </header>
+      <!-- "{{ .Content }}" pulls from the Markdown content of the corresponding _index.md -->
+      {{ .Content }}
+    </article>
     <ul>
-        {{ range .Pages }}
+      <!-- Ranges through content/posts/*.md -->
+      {{ range .Pages }}
         <li>
-            <a href="{{ .Permalink }}">{{ if .Draft }}{{ T "draft" }}: {{end}}{{ .Title | markdownify }}</a>
-            <time class="date-meta">{{ .Date.Format "Jan 2" }}</time>
+          <a href="{{ .RelPermalink }}">{{ .Date.Format "2006-01-02" }} | {{ .LinkTitle }}</a>
         </li>
-        {{ end }}
+      {{ end }}
     </ul>
-
-    {{ end }}
-
-</section>
-
-{{ template "_internal/pagination.html" . }}
-
+  </main>
 {{ end }}

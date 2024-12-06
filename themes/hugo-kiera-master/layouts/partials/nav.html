@@ -1,14 +1,21 @@
 {{ $currentPage := . }}
+
 <nav>
-    <ul>
+    <ul class="main-menu__wrapper">
         {{ range .Site.Menus.main }}
-        <li>
-<a class="{{if or (eq $currentPage.Section .Identifier) ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .)}} active{{end}}" href="{{ .URL }}">{{ .Name }}</a>
+        <li class="top-menu-item {{ if .HasChildren }} menu-item-has-children{{ end }}">
+            <a href="{{ if .HasChildren }}#{{ else }}{{ .URL | relLangURL }}{{ end }}" class="{{ .Identifier }} menu-link">{{ .Name }}</a>
+            {{ if .HasChildren }}
+            <div class="sub-menu">
+                    {{ range .Children }}
+                        <a href="{{ .URL | relLangURL }}" class="sub-menu-link">{{ .Name }} </a>
+                    {{ end }}
+            </div>
+            {{ end }}
         </li>
         {{ end }}
-       
-        
     </ul>
+
 </nav>
 
 
