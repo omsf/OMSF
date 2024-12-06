@@ -6,7 +6,7 @@ class: "contact"
 weight: 30
 ---
  
-![Contact](/images/icon-Contact.svg)
+![Contact](/images/icon-contact.svg)
 
 **Reach us**    
 at info@omsf.io
