@@ -10,6 +10,7 @@ weight: 30
 
 **Reach us**    
 at info@omsf.io
++
 
 **Follow us**   
 on [Linkedin](https://www.linkedin.com/company/omsf) and [Twitter](https://twitter.com/openmsf) for updates
