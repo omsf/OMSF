@@ -1,5 +1,5 @@
 ---
-title: Current grants housed at OMSF
+title: Active Grants
 menu: "projects"
 name: "projects"
 class: "projects"
